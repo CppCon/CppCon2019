@@ -1,0 +1,14 @@
+cmake-build-*/
+cmake-clang-*/
+cmake-gcc-*/
+build/releases
+*.received.*
+.idea
+doc/html/
+.vs/
+/.vscode/
+*.runsettings
+CMakeLists.txt.user
+*.bak
+.DS_Store
+[Oo]ut/build

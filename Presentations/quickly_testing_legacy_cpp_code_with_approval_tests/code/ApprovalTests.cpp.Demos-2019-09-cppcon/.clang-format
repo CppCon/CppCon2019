@@ -1,0 +1,21 @@
+---
+Language: Cpp
+AccessModifierOffset: -4
+AlignAfterOpenBracket: DontAlign
+AlwaysBreakAfterReturnType: None
+BinPackArguments: 'false'
+BinPackParameters: 'false'
+BreakBeforeBraces: Allman
+#ColumnLimit: 80
+IndentWidth: '4'
+KeepEmptyLinesAtTheStartOfBlocks: 'true'
+NamespaceIndentation: All
+PointerAlignment: Left
+ReflowComments: 'false'
+SortIncludes: 'false'
+SortUsingDeclarations: 'true'
+SpaceAfterTemplateKeyword: 'true'
+TabWidth: '4'
+UseTab: Never
+
+...
