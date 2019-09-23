@@ -8,8 +8,8 @@ For source code, a `zip` or `tar.gz` is fine. Please do not include large files,
 
 To help make our job easier, please name your slide files as follows:
 
-> Presentation Title - Speaker Name - CppCon 2018
+> Presentation Title - Speaker Name - CppCon 2019
 
-Please avoid special characters in the filename, such as: `\/:*?"<>|`. For example, Herb Sutter's plenary presentation would be named "Meta – Thoughts on Generative C++ – Herb Sutter – CppCon 2017.pdf".
+Please avoid special characters in the filename, such as: `\/:*?"<>|`.
 
 Don’t worry about the name for code archives as we will be unzipping them.

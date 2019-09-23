@@ -8,7 +8,7 @@ import sys
 import re
 import subprocess
 
-CPPCON_YEAR = 2018
+CPPCON_YEAR = 2019
 
 def shell_call(cmd):
     process = subprocess.Popen(cmd, shell=True)
@@ -66,7 +66,6 @@ def generate_entry(readme, path):
             # is one
             if (not presentation_file) or pdf_regex.search(name):
                 presentation_file = name
-                # author = get_author_from_filename(name)
 
             all_presentation_files.append(name)
         elif readme_md_regex.search(name):
@@ -78,7 +77,6 @@ def generate_entry(readme, path):
         presentation_path = join(path, presentation_file)
     else:
         presentation_path = path
-        # author = get_author_from_readme_md(join(path, readme_md_file))
 
     with open(join(path, '.presentation'), mode="r", encoding="utf8") as f:
         presentation_info = load(f)
