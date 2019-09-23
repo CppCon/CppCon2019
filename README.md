@@ -15,6 +15,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [A Short Life span For a Regular Mess](Presentations/a_short_life_span_for_a_regular_mess/a_short_life_span_for_a_regular_mess__victor_ciura__cppcon_2019.pdf) by Victor Ciura
  - [Atomics Locks And Tasks](Presentations/atomics_locks_and_tasks/atomics_locks_and_tasks__rainer_grimm__cppcon_2019.pdf) by Rainer Grimm \[[more materials](Presentations/atomics_locks_and_tasks)\]
  - [Concepts in C++20 Revolution or Evolution](Presentations/concepts_in_cpp20_revolution_or_evolution/concepts_in_cpp20_revolution_or_evolution__rainer_grimm__cppcon_2019.pdf) by Rainer Grimm
+ - [C++ as a First Language... Really?](Presentations/cpp_as_a_first_language_really/cpp_as_a_first_language_really__patrice_roy__cppcon_2019.pdf) by Patrice Roy
  - [Expression Templates for Efficient, Generic Finance Code](Presentations/expression_templatesfor_efficient_generic_finance_code/expression_templatesfor_efficient_generic_finance_code__bowie_owens__cppcon_2019.pdf) by Bowie Owens
  - [How to Hold a T](Presentations/how_to_hold_a_t/how_to_hold_a_t__cj_johnson__cppcon_2019.pdf) by CJ Johnson
  - [Inference in C++ - The Big Picture](Presentations/inference_in_cpp_the_big_picture/inference_in_cpp_the_big_picture__mike_spertus__cppcon_2019.pdf) by Mike Spertus
