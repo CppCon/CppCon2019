@@ -7,9 +7,6 @@ and code from [CppCon 2019](http://cppcon.org).
 [For Speakers: Submitting Materials](Submitting.md)
 # Index of Materials
 
-## Keynotes
-
-
 ## Presentations
 
  - [A Series of Unfortunate Bugs](Presentations/a_series_of_unfortunate_bugs/a_series_of_unfortunate_bugs__satabdi_das__cppcon_2019.pdf) by Satabdi Das
