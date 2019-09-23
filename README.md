@@ -18,6 +18,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [C++ as a First Language... Really?](Presentations/cpp_as_a_first_language_really/cpp_as_a_first_language_really__patrice_roy__cppcon_2019.pdf) by Patrice Roy
  - [Expression Templates for Efficient, Generic Finance Code](Presentations/expression_templatesfor_efficient_generic_finance_code/expression_templatesfor_efficient_generic_finance_code__bowie_owens__cppcon_2019.pdf) by Bowie Owens
  - [How to Hold a T](Presentations/how_to_hold_a_t/how_to_hold_a_t__cj_johnson__cppcon_2019.pdf) by CJ Johnson
+ - [How to Write a Heap Memory Profiler](Presentations/how_to_write_a_heap_memory_profiler/how_to_write_a_heap_memory_profiler__milian_wolff__cppcon_2019.pdf) by Milian Wolff
  - [Inference in C++ - The Big Picture](Presentations/inference_in_cpp_the_big_picture/inference_in_cpp_the_big_picture__mike_spertus__cppcon_2019.pdf) by Mike Spertus
  - [Releasing C++ Toolchains Weekly in a Live at Head World](Presentations/releasing_cpp_toolchains_weekly_in_a_live_at_head_world/releasing_cpp_toolchains_weekly_in_a_live_at_head_world__jorge_gorbe_moya_jordan_rupprecht__cppcon_2019.pdf) by Jorge Gorbe Moya, Jordan Rupprecht
  - [Some Programming Myths Revisited](Presentations/some_programming_myths_revisited/some_programming_myths_revisited__patrice_roy__cppcon_2019.pdf) by Patrice Roy
