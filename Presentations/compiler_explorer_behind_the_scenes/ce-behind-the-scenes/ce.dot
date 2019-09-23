@@ -1,0 +1,66 @@
+digraph compiler_explorer {
+    bgcolor=white;
+    compound=true;
+    nodesep=0.6;
+    node [ color="#dddddd:#aaaaaa"; style=filled];
+    edge [ dir=both ];
+    outside [shape = parallelogram, rank="source"];
+
+    cloudfront [shape = oval];
+
+    alb [shape = box, label="Application Load Balancer"];
+
+    subgraph cluster_ce_nodes {
+        label = "Production";
+        style = filled;
+        color="#99dd99";
+
+        ce_node_1 [shape = box, label="EC2"];
+        ce_node_2 [shape = box, label="EC2"];
+    }
+    subgraph cluster_beta_nodes {
+        label="Beta";
+        style = filled;
+        color="#dd99dd";
+        beta_node_1 [shape = box, label="EC2"];
+    }
+    subgraph cluster_staging_nodes {
+        label="Staging";
+        style = filled;
+        color="#99dddd";
+        staging_node_1 [shape = box, label="EC2"];
+    }
+
+    admin [shape = box, rank="sink", label="admin\nEC2", color="#ddddff:#aaaacc"];
+
+    efs [shape = folder];
+    s3 [shape = folder];
+    dynamodb [shape = cylinder];
+
+    outside -> cloudfront;
+    cloudfront -> alb;
+
+    alb -> ce_node_1 [lhead=cluster_ce_nodes];
+    alb -> ce_node_2 [lhead=cluster_ce_nodes];
+    alb -> beta_node_1 [lhead=cluster_beta_nodes];
+    alb -> staging_node_1 [lhead=cluster_staging_nodes];
+
+    build [ shape=box, label="Compiler Builder\nEC2", color="#ddddff:#aaaacc"];
+
+    admin->build;
+    build->s3;
+
+    admin -> {efs, s3, dynamodb };
+    { ce_node_1, ce_node_2} -> admin [ltail=cluster_ce_nodes];
+    { ce_node_1, ce_node_2} -> efs [ltail=cluster_ce_nodes];
+    { ce_node_1, ce_node_2} -> s3 [ltail=cluster_ce_nodes];
+    { ce_node_1, ce_node_2} -> dynamodb [ltail=cluster_ce_nodes];
+    { beta_node_1 } -> admin [ltail=cluster_beta_nodes];
+    { beta_node_1 } -> efs [ltail=cluster_beta_nodes];
+    { beta_node_1 } -> s3 [ltail=cluster_beta_nodes];
+    { beta_node_1 } -> dynamodb [ltail=cluster_beta_nodes];
+    { staging_node_1 } -> admin [ltail=cluster_staging_nodes];
+    { staging_node_1 } -> efs [ltail=cluster_staging_nodes];
+    { staging_node_1 } -> s3 [ltail=cluster_staging_nodes];
+    { staging_node_1 } -> dynamodb [ltail=cluster_staging_nodes];
+}

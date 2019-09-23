@@ -1,0 +1,262 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title>Compiler Explorer: Behind the Scenes</title>
+
+    <link rel="stylesheet" href="reveal.js/css/reveal.css">
+    <link rel="stylesheet" href="reveal.js/css/theme/sky.css">
+
+    <style>
+        .reveal .slides section .fragment.highlight-current-code {
+            opacity: 1;
+            visibility: inherit;
+        }
+
+        .reveal .slides section .fragment.highlight-current-code.current-fragment {
+            background: #555a5f;
+            color: #ffffff;
+        }
+
+        .white-bg {
+            background: #ddd;
+            box-shadow: 10px 10px #888;
+            border-radius: 10px;
+            padding: 15px !important;
+        }
+
+        .reveal pre code {
+            box-shadow: 10px 10px #888;
+            border-radius: 10px;
+            padding: 10px;
+        }
+
+        .highlighted-already {
+            background: #555a5f;
+            color: #ffffff;
+        }
+
+        div.lang-container {
+            padding-left: 3em;
+            padding-right: 3em;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+        }
+
+        .lang-container div {
+            padding: 10px;
+            min-width: 2em;
+        }
+
+        .no-border {
+            background: none !important;
+            border: none !important;
+            box-shadow: none !important;
+        }
+
+        div.quote {
+            max-width: 70%;
+            margin: auto;
+        }
+
+        div.attribution {
+            font-style: italic;
+            font-size: smaller;
+        }
+
+        ul.instr {
+            display: block !important;
+        }
+
+        .w50 {
+            width: 45% !important;
+            display: inline-block !important;
+            margin-left: 10px !important;
+        }
+
+        .w70 {
+            width: 65% !important;
+            display: inline-block !important;
+            margin-left: 10px !important;
+        }
+
+        .w30 {
+            width: 25% !important;
+            display: inline-block !important;
+            margin-left: 10px !important;
+        }
+
+        .w60 {
+            width: 55% !important;
+            display: inline-block !important;
+            margin-left: 10px !important;
+        }
+
+        .w40 {
+            width: 35% !important;
+            display: inline-block !important;
+            margin-left: 10px !important;
+        }
+
+        .w55 {
+            width: 50% !important;
+            display: inline-block !important;
+            margin-left: 10px !important;
+        }
+
+        .w45 {
+            width: 40% !important;
+            display: inline-block !important;
+            margin-left: 10px !important;
+        }
+
+        .reveal pre code {
+            font-size: 120%;
+        }
+
+        .reveal .registers th {
+            font-size: 30px;
+            text-align: center;
+        }
+
+        .reveal .registers td {
+            text-align: center;
+        }
+
+        .reveal .registers td.register {
+            border: 1px solid black;
+            font-family: Courier, 'Courier New', monospace;
+        }
+
+        .nobreak {
+            white-space: nowrap;
+        }
+
+        .reveal .registers .ymm0 {
+            background: rgb(141, 211, 199);
+        }
+
+        .reveal .registers .ymm1 {
+            background: rgb(255, 255, 179);
+        }
+
+        .reveal .registers .ymm2 {
+            background: rgb(190, 186, 218);
+        }
+
+        .reveal .registers .rax {
+            background: rgb(141, 211, 199);
+        }
+
+        .reveal .registers .eax {
+            background: rgb(255, 255, 179);
+        }
+
+        .reveal .registers .ax {
+            background: rgb(190, 186, 218);
+        }
+
+        .reveal .registers .ah {
+            background: rgb(251, 128, 114);
+        }
+
+        .reveal .registers .al {
+            background: rgb(128, 177, 211);
+        }
+
+        .reveal .registers .regnote {
+            font-size: smaller;
+            font-style: italic;
+        }
+
+        div.footer {
+            z-index: 10;
+            font-size: 40%;
+            font-style: italic;
+            position: absolute;
+            bottom: 1em;
+            text-align: center;
+            background: #ddd;
+            box-shadow: 4px 4px #888;
+            border-radius: 4px;
+            padding: 8px !important;
+            margin-left: 15px;
+        }
+    </style>
+
+    <!-- Theme used for syntax highlighting of code -->
+    <link rel="stylesheet" href="reveal.js/lib/css/zenburn.css">
+
+    <!-- Printing and PDF exports -->
+    <script>
+        const link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = window.location.search.match(/print-pdf/gi) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
+        document.getElementsByTagName('head')[0].appendChild(link);
+    </script>
+</head>
+<body>
+<div class="reveal">
+    <div class="slides">
+        <section data-background="images/bg/gray-lake_8440283318_o.jpg">
+            <div class="white-bg">
+                <h3>Compiler Explorer:<br/>Behind the Scenes</h3>
+                <h5>Matt Godbolt <br/><a href="https://twitter.com/mattgodbolt">@mattgodbolt</a></h5>
+            </div>
+        </section>
+        <section data-markdown="intro.md" data-separator-vertical="^---\n" data-separator="---disabled---"
+                 data-background="images/bg/path-to-my-heart_8489878977_o.jpg"></section>
+        <section data-markdown="whats-hot.md" data-separator-vertical="^---\n" data-separator="---disabled---"
+                 data-background="images/bg/hot-red_292404113_desat.jpg"></section>
+        <section data-markdown="behind.md" data-separator-vertical="^---\n" data-separator="---disabled---"
+                 data-background="images/bg/ripples_230419567_o.jpg"></section>
+        <section data-markdown="conclusion.md" data-separator-vertical="^---\n" data-separator="---disabled---"
+                 data-background="images/bg/chess_230416692_o.jpg"></section>
+        <!--- bonus slides -->
+        <!--
+                <section data-markdown="best5.md" data-separator-vertical="^---\n" data-separator="---disabled---"
+                         data-background="images/bg/tufa-at-night_7499631506_o.jpg"></section>
+                <section data-markdown="asm.md"
+                         data-separator-vertical="^\n\n">
+                </section>
+        -->
+    </div>
+    <div class="footer">
+        &copy; <a href="https://twitter.com/mattgodbolt">Matt Godbolt</a> 2019
+        <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</a><br>
+        Background images &copy; <a href="https://twitter.com/romainguy">Romain Guy</a>
+        <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</a>
+    </div>
+</div>
+
+<script src="reveal.js/js/reveal.js"></script>
+
+<script>
+    Reveal.initialize({
+        history: true,
+        transition: 'fade',
+        slideNumber: true,
+        width: 1280,
+        height: 720,
+        markdown: {
+            smartypants: true,
+        },
+        dependencies: [
+            {src: 'reveal.js/plugin/markdown/marked.js'},
+            {src: 'reveal.js/plugin/markdown/markdown.js'},
+            {src: 'compiler-explorer.js'},
+            {src: 'reveal.js/plugin/notes/notes.js', async: true},
+            {
+                src: 'reveal.js/plugin/highlight/highlight.js',
+                async: true,
+                callback: () => hljs.initHighlightingOnLoad()
+            }
+        ]
+    });
+</script>
+</body>
+</html>

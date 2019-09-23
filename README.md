@@ -15,7 +15,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [A Series of Unfortunate Bugs](Presentations/a_series_of_unfortunate_bugs/a_series_of_unfortunate_bugs__satabdi_das__cppcon_2019.pdf) by Satabdi Das
  - [A Short Life span For a Regular Mess](Presentations/a_short_life_span_for_a_regular_mess/a_short_life_span_for_a_regular_mess__victor_ciura__cppcon_2019.pdf) by Victor Ciura
  - [Atomics Locks And Tasks](Presentations/atomics_locks_and_tasks/atomics_locks_and_tasks__rainer_grimm__cppcon_2019.pdf) by Rainer Grimm \[[more materials](Presentations/atomics_locks_and_tasks)\]
- - [Compiler Explorer: Behind the Scenes](Presentations/compiler_explorer_behind_the_scenes/compiler_explorer_behind_the_scenes__matt_godbolt__cppcon_2019.pdf) by Matt Godbolt
+ - [Compiler Explorer: Behind the Scenes](Presentations/compiler_explorer_behind_the_scenes/compiler_explorer_behind_the_scenes__matt_godbolt__cppcon_2019.pdf) by Matt Godbolt \[[README](Presentations/compiler_explorer_behind_the_scenes/README.md)\] \[[more materials](Presentations/compiler_explorer_behind_the_scenes)\]
  - [Concepts in C++20 Revolution or Evolution](Presentations/concepts_in_cpp20_revolution_or_evolution/concepts_in_cpp20_revolution_or_evolution__rainer_grimm__cppcon_2019.pdf) by Rainer Grimm
  - [C++ as a First Language... Really?](Presentations/cpp_as_a_first_language_really/cpp_as_a_first_language_really__patrice_roy__cppcon_2019.pdf) by Patrice Roy
  - [Expression Templates for Efficient, Generic Finance Code](Presentations/expression_templatesfor_efficient_generic_finance_code/expression_templatesfor_efficient_generic_finance_code__bowie_owens__cppcon_2019.pdf) by Bowie Owens
