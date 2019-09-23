@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
-from os import listdir, makedirs, rename, linesep
+from os import listdir, makedirs, linesep
+from shutil import copyfile
 from os.path import isdir, exists, split, normpath, join, splitext
 from urllib.parse import quote
 from json import dump, load
@@ -222,7 +223,7 @@ def add_presentation(path):
     new_folder = join(folder, file_title)
     new_path = join(new_folder, new_filename)
     makedirs(new_folder, exist_ok=True)
-    rename(path, new_path)
+    copyfile(path, new_path)
 
     with open(
             join(new_folder, '.presentation'), mode='w', encoding="utf8") as f:
