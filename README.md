@@ -22,6 +22,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [Compiler Explorer: Behind the Scenes](Presentations/compiler_explorer_behind_the_scenes/compiler_explorer_behind_the_scenes__matt_godbolt__cppcon_2019.pdf) by Matt Godbolt \[[README](Presentations/compiler_explorer_behind_the_scenes/README.md)\] \[[more materials](Presentations/compiler_explorer_behind_the_scenes)\]
  - [Concepts in C++20 Revolution or Evolution](Presentations/concepts_in_cpp20_revolution_or_evolution/concepts_in_cpp20_revolution_or_evolution__rainer_grimm__cppcon_2019.pdf) by Rainer Grimm
  - [C++ as a First Language... Really?](Presentations/cpp_as_a_first_language_really/cpp_as_a_first_language_really__patrice_roy__cppcon_2019.pdf) by Patrice Roy
+ - [C++... Easy, Elegant, Powerful!](Presentations/cpp_easy_elegant_powerful/cpp_easy_elegant_powerful__charles_bay__cppcon_2019.pdf) by Charles Bay
  - [Expression Templates for Efficient, Generic Finance Code](Presentations/expression_templatesfor_efficient_generic_finance_code/expression_templatesfor_efficient_generic_finance_code__bowie_owens__cppcon_2019.pdf) by Bowie Owens
  - [How to Hold a T](Presentations/how_to_hold_a_t/how_to_hold_a_t__cj_johnson__cppcon_2019.pdf) by CJ Johnson
  - [How to Write a Heap Memory Profiler](Presentations/how_to_write_a_heap_memory_profiler/how_to_write_a_heap_memory_profiler__milian_wolff__cppcon_2019.pdf) by Milian Wolff \[[README](Presentations/how_to_write_a_heap_memory_profiler/README.md)\]
