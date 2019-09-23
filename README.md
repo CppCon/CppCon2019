@@ -39,6 +39,7 @@ and code from [CppCon 2019](http://cppcon.org).
 ## Lightning Talks and Lunch Sessions
 
  - [Algorithm Magic](Lightning%20Talks%20and%20Lunch%20Sessions/algorithm_magic/algorithm_magic__rene_rivera__cppcon_2019.pdf) by Rene Rivera \[[more materials](Lightning%20Talks%20and%20Lunch%20Sessions/algorithm_magic)\]
+ - [Catching New Tricks](Lightning%20Talks%20and%20Lunch%20Sessions/catching_new_tricks/catching_new_tricks__martin_ho%C5%99e%C5%88ovsk%C3%BD__cppcon_2019.pdf) by Martin Hořeňovský
  - [Code Samples that Actually Compile](Lightning%20Talks%20and%20Lunch%20Sessions/code_samples_that_actually_compile/code_samples_that_actually_compile__clare_macrae__cppcon_2019.pdf) by Clare Macrae
  - [Postmodern Meta C++](Lightning%20Talks%20and%20Lunch%20Sessions/postmodern_meta_cpp/postmodern_meta_cpp__kris_jusiak__cppcon_2019.pdf) by Kris Jusiak
 
