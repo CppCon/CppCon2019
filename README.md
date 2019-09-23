@@ -20,6 +20,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [How to Hold a T](Presentations/how_to_hold_a_t/how_to_hold_a_t__cj_johnson__cppcon_2019.pdf) by CJ Johnson
  - [Inference in C++ - The Big Picture](Presentations/inference_in_cpp_the_big_picture/inference_in_cpp_the_big_picture__mike_spertus__cppcon_2019.pdf) by Mike Spertus
  - [Some Programming Myths Revisited](Presentations/some_programming_myths_revisited/some_programming_myths_revisited__patrice_roy__cppcon_2019.pdf) by Patrice Roy
+ - [The Smart Pointers I Wish I Had](Presentations/the_smart_pointers_i_wish_i_had/the_smart_pointers_i_wish_i_had__matthew_fleming__cppcon_2019.pdf) by Matthew Fleming
  - [This Videogame Programmer Used the STL](Presentations/this_videogame_programmer_used_the_stl/this_videogame_programmer_used_the_stl__mathieu_ropert__cppcon_2019.pdf) by Mathieu Ropert
 
 ## Lightning Talks and Lunch Sessions
