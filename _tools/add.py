@@ -33,7 +33,6 @@ def make_readme(readme):
 
     readme.write("# Index of Materials\n")
     CATEGORIES = [
-        "Keynotes",
         "Presentations",
         "Lightning Talks and Lunch Sessions",
         "Posters"
@@ -123,7 +122,6 @@ def generate_index(readme, path):
 def add_presentation(path):
     SESSION_MAP = {
         'p': 'Presentations',
-        'k': 'Keynotes',
         'l': 'Lightning Talks and Lunch Sessions',
         'o': 'Posters'
     }
