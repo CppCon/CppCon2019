@@ -1,0 +1,8 @@
+*.swp
+*~
+.gdb_history
+/build
+gdb.txt
+/cmake-*
+/image*.*
+perf.*

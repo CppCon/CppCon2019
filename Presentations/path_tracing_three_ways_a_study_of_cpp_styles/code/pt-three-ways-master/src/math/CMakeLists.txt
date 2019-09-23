@@ -1,0 +1,2 @@
+add_library(math Vec3.cpp Vec3.h Ray.cpp Ray.h Hit.cpp Hit.h Camera.cpp Camera.h OrthoNormalBasis.cpp OrthoNormalBasis.h ApproxVec3.h ApproxVec3.cpp Norm3.cpp Norm3.h Norm3.impl.h Vec3.impl.h Samples.h Samples.cpp Epsilon.h)
+target_include_directories(math INTERFACE ..)

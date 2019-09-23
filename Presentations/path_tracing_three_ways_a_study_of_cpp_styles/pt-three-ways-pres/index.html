@@ -1,0 +1,275 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title>Path Tracing Three Ways</title>
+
+    <link rel="stylesheet" href="reveal.js/css/reveal.css">
+    <link rel="stylesheet" href="reveal.js/css/theme/sky.css">
+
+    <style>
+        .reveal .slides section .fragment.highlight-current-code {
+            opacity: 1;
+            visibility: inherit;
+        }
+
+        div.lhs, div.rhs {
+            width: 48%;
+            display: inline-block;
+        }
+
+        td, th {
+            text-align: center !important;
+        }
+
+        .reveal .slides section .fragment.highlight-current-code.current-fragment {
+            background: #555a5f;
+            color: #ffffff;
+        }
+
+        .white-bg {
+            background: #ddd;
+            box-shadow: 7px 7px #888;
+            border-radius: 7px;
+            padding: 10px !important;
+        }
+
+        .reveal pre code {
+            box-shadow: 7px 7px #888;
+            border-radius: 7px;
+            padding: 7px;
+            max-height: 500px !important;
+        }
+
+        .highlighted-already {
+            background: #555a5f;
+            color: #ffffff;
+        }
+
+        div.lang-container {
+            padding-left: 3em;
+            padding-right: 3em;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+        }
+
+        .lang-container div {
+            padding: 10px;
+            min-width: 2em;
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+        }
+
+        .float-left {
+            float: left;
+        }
+
+        .no-border {
+            background: none !important;
+            border: none !important;
+            box-shadow: none !important;
+        }
+
+        div.quote {
+            max-width: 70%;
+            margin: auto;
+        }
+
+        div.attribution {
+            font-style: italic;
+            font-size: 40%;
+        }
+
+        ul.instr {
+            display: block !important;
+        }
+
+        .w50 {
+            width: 45% !important;
+            display: inline-block !important;
+            margin-left: 10px !important;
+        }
+
+        .w70 {
+            width: 65% !important;
+            display: inline-block !important;
+            margin-left: 10px !important;
+        }
+
+        .w30 {
+            width: 25% !important;
+            display: inline-block !important;
+            margin-left: 10px !important;
+        }
+
+        .w60 {
+            width: 55% !important;
+            display: inline-block !important;
+            margin-left: 10px !important;
+        }
+
+        .w40 {
+            width: 35% !important;
+            display: inline-block !important;
+            margin-left: 10px !important;
+        }
+
+        .w55 {
+            width: 50% !important;
+            display: inline-block !important;
+            margin-left: 10px !important;
+        }
+
+        .w45 {
+            width: 40% !important;
+            display: inline-block !important;
+            margin-left: 10px !important;
+        }
+
+        .reveal pre code {
+            font-size: 120%;
+        }
+
+        .reveal .registers th {
+            font-size: 30px;
+            text-align: center;
+        }
+
+        .reveal .registers td {
+            text-align: center;
+        }
+
+        .reveal .registers td.register {
+            border: 1px solid black;
+            font-family: Courier, 'Courier New', monospace;
+        }
+
+        .nobreak {
+            white-space: nowrap;
+        }
+
+        .reveal .registers .ymm0 {
+            background: rgb(141, 211, 199);
+        }
+
+        .reveal .registers .ymm1 {
+            background: rgb(255, 255, 179);
+        }
+
+        .reveal .registers .ymm2 {
+            background: rgb(190, 186, 218);
+        }
+
+        .reveal .registers .rax {
+            background: rgb(141, 211, 199);
+        }
+
+        .reveal .registers .eax {
+            background: rgb(255, 255, 179);
+        }
+
+        .reveal .registers .ax {
+            background: rgb(190, 186, 218);
+        }
+
+        .reveal .registers .ah {
+            background: rgb(251, 128, 114);
+        }
+
+        .reveal .registers .al {
+            background: rgb(128, 177, 211);
+        }
+
+        .reveal .registers .regnote {
+            font-size: smaller;
+            font-style: italic;
+        }
+
+        div.footer {
+            z-index: 1;
+            font-size: small;
+            font-style: italic;
+            position: absolute;
+            bottom: 1em;
+            text-align: center;
+            background: #ddd;
+            box-shadow: 5px 5px #888;
+            border-radius: 5px;
+            padding: 10px !important;
+        }
+    </style>
+
+    <!-- Theme used for syntax highlighting of code -->
+    <link rel="stylesheet" href="reveal.js/lib/css/zenburn.css">
+
+    <!-- Printing and PDF exports -->
+    <script>
+        const link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = window.location.search.match(/print-pdf/gi) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
+        document.getElementsByTagName('head')[0].appendChild(link);
+    </script>
+</head>
+<body>
+<div class="reveal">
+    <div class="slides">
+        <section>
+            <div class="white-bg">
+                <h3>Path Tracing Three Ways:<br/>A Study Of C++ Style</h3>
+                <h5>Matt Godbolt <br/><a href="https://twitter.com/mattgodbolt">@mattgodbolt</a></h5>
+            </div>
+        </section>
+        <section data-markdown="intro.md" data-separator="xxxNONExxx" data-separator-vertical="^---\n"
+                 data-background="images/bg/7059629417_f71643c99a_o.jpg"></section>
+        <section data-markdown="oo.md" data-separator="xxxNONExxx" data-separator-vertical="^---\n"
+                 data-background="images/bg/lamps_228634577_o.jpg"></section>
+        <section data-markdown="fp.md" data-separator="xxxNONExxx" data-separator-vertical="^---\n"
+                 data-background="images/bg/sailing-stones_7602208040_o.jpg"></section>
+        <section data-markdown="dod.md" data-separator="xxxNONExxx" data-separator-vertical="^---\n"
+                 data-background="images/bg/writings_228635808_o.jpg"></section>
+        <section data-markdown="conclusion.md" data-separator="xxxNONExxx" data-separator-vertical="^---\n"
+                 data-background="images/bg/white-tree_16199195845_o.jpg"></section>
+    </div>
+    <div class="footer">
+        &copy; <a href="https://twitter.com/mattgodbolt">Matt Godbolt</a> 2019, All Rights Reserved (unless otherwise
+        noted)<br>
+        Background images &copy; <a href="https://twitter.com/romainguy">Romain Guy</a> <a
+            href="https://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA 2.0</a>
+    </div>
+</div>
+
+<script src="reveal.js/js/reveal.js"></script>
+
+
+<script>
+    Reveal.initialize({
+        history: true,
+        transition: 'none',
+        slideNumber: true,
+        width: 1280,
+        height: 720,
+        markdown: {
+            smartypants: true,
+        },
+        dependencies: [
+            {src: 'reveal.js/plugin/markdown/marked.js'},
+            {src: 'reveal.js/plugin/markdown/markdown.js'},
+            {src: 'compiler-explorer.js'},
+            {src: 'reveal.js/plugin/notes/notes.js', async: true},
+            {
+                src: 'reveal.js/plugin/highlight/highlight.js',
+                async: true,
+                callback: () => hljs.initHighlightingOnLoad()
+            }
+        ]
+    });
+</script>
+</body>
+</html>

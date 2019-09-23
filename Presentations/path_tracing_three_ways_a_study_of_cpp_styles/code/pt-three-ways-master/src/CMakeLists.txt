@@ -1,0 +1,7 @@
+add_subdirectory(smallpt)
+add_subdirectory(math)
+add_subdirectory(oo)
+add_subdirectory(util)
+add_subdirectory(main)
+add_subdirectory(fp)
+add_subdirectory(dod)

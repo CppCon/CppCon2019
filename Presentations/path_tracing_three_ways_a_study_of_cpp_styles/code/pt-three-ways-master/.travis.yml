@@ -1,0 +1,67 @@
+os: linux
+language: python
+python: "3.7"
+dist: xenial
+matrix:
+  include:
+    - os: linux
+      addons:
+        apt:
+          sources:
+            - ubuntu-toolchain-r-test
+          packages:
+            - g++-7
+      env:
+        - MATRIX_EVAL="CC=gcc-7 && CXX=g++-7"
+    - os: linux
+      addons:
+        apt:
+          sources:
+            - ubuntu-toolchain-r-test
+          packages:
+            - g++-8
+      env:
+        - MATRIX_EVAL="CC=gcc-8 && CXX=g++-8"
+    - os: linux
+      addons:
+        apt:
+          sources:
+            - ubuntu-toolchain-r-test
+          packages:
+            - g++-9
+      env:
+        - MATRIX_EVAL="CC=gcc-9 && CXX=g++-9"
+#    - os: linux
+#      addons:
+#        apt:
+#          sources:
+#            - sourceline: 'deb http://apt.llvm.org/xenial/ llvm-toolchain-xenial-8 main'
+#              key_url: 'https://apt.llvm.org/llvm-snapshot.gpg.key'
+#          packages:
+#            - clang-8
+#      env:
+#        - MATRIX_EVAL="CC=clang-8 && CXX=clang++-8"
+#    - os: linux
+#      addons:
+#        apt:
+#          sources:
+#            - sourceline: 'deb http://apt.llvm.org/xenial/ llvm-toolchain-xenial-7 main'
+#              key_url: 'https://apt.llvm.org/llvm-snapshot.gpg.key'
+#          packages:
+#            - clang-7
+#      env:
+#        - MATRIX_EVAL="CC=clang-7 && CXX=clang++-7"
+
+before_install:
+  - export CC
+  - export CXX
+  - eval "${MATRIX_EVAL}"
+install:
+  - pip install conan
+  - conan user
+  - conan profile new default --detect --force
+  - conan profile update settings.compiler.libcxx=libstdc++11 default
+script:
+  - cmake . -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Debug
+  - cmake --build . -j $(nproc)
+  - ctest -V .

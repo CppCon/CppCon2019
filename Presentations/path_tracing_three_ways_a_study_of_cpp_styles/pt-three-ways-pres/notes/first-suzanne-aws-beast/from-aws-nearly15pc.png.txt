@@ -1,0 +1,6 @@
+real    393m45.162s
+user    28317m7.497s
+sys     0m12.376s
+
+
+BUT due to a misconfiguration in CMake (not sure how), CXX_FLAGS_RELEASE was empty, so...was unoptimised.
