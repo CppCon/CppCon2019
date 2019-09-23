@@ -23,6 +23,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [Some Programming Myths Revisited](Presentations/some_programming_myths_revisited/some_programming_myths_revisited__patrice_roy__cppcon_2019.pdf) by Patrice Roy
  - [The Smart Pointers I Wish I Had](Presentations/the_smart_pointers_i_wish_i_had/the_smart_pointers_i_wish_i_had__matthew_fleming__cppcon_2019.pdf) by Matthew Fleming
  - [This Videogame Programmer Used the STL](Presentations/this_videogame_programmer_used_the_stl/this_videogame_programmer_used_the_stl__mathieu_ropert__cppcon_2019.pdf) by Mathieu Ropert
+ - [Using C++20’s Three-way Comparison ](Presentations/using_cpp20s_threeway_comparison_/using_cpp20s_threeway_comparison___jonathan_m%C3%BCller__cppcon_2019.pdf) by Jonathan Müller
 
 ## Lightning Talks and Lunch Sessions
 
