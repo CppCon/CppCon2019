@@ -18,6 +18,7 @@ and code from [CppCon 2019](http://cppcon.org).
 ## Lightning Talks and Lunch Sessions
 
  - [Algorithm Magic](Lightning%20Talks%20and%20Lunch%20Sessions/algorithm_magic/algorithm_magic__rene_rivera__cppcon_2019.pdf) by Rene Rivera \[[more materials](Lightning%20Talks%20and%20Lunch%20Sessions/algorithm_magic)\]
+ - [Code Samples that Actually Compile](Lightning%20Talks%20and%20Lunch%20Sessions/code_samples_that_actually_compile/code_samples_that_actually_compile__clare_macrae__cppcon_2019.pdf) by Clare Macrae
 
 ## Posters
 
