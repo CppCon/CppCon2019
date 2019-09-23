@@ -17,6 +17,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [Back to Basics: RAII and the Rule of Zero](Presentations/back_to_basics_raii_and_the_rule_of_zero/back_to_basics_raii_and_the_rule_of_zero__arthur_odwyer__cppcon_2019.pdf) by Arthur O’Dwyer
  - [Back to Basics: Smart Pointers](Presentations/back_to_basics_smart_pointers/back_to_basics_smart_pointers__arthur_odwyer__cppcon_2019.pdf) by Arthur O’Dwyer
  - [Back to Basics: Type Erasure](Presentations/back_to_basics_type_erasure/back_to_basics_type_erasure__arthur_odwyer__cppcon_2019.pdf) by Arthur O’Dwyer
+ - [Behind the Scenes of a C++ Build System](Presentations/behind_the_scenes_of_a_cpp_build_system/behind_the_scenes_of_a_cpp_build_system__jussi_pakkanen__cppcon_2019.pdf) by Jussi Pakkanen
  - [Catching ⬆️ - The (Baseline) Unicode Plan for C++23](Presentations/catching__the_baseline_unicode_plan_for_cpp23/catching__the_baseline_unicode_plan_for_cpp23__jeanheyd_meneide__cppcon_2019.pdf) by JeanHeyd Meneide
  - [Compiler Explorer: Behind the Scenes](Presentations/compiler_explorer_behind_the_scenes/compiler_explorer_behind_the_scenes__matt_godbolt__cppcon_2019.pdf) by Matt Godbolt \[[README](Presentations/compiler_explorer_behind_the_scenes/README.md)\] \[[more materials](Presentations/compiler_explorer_behind_the_scenes)\]
  - [Concepts in C++20 Revolution or Evolution](Presentations/concepts_in_cpp20_revolution_or_evolution/concepts_in_cpp20_revolution_or_evolution__rainer_grimm__cppcon_2019.pdf) by Rainer Grimm
