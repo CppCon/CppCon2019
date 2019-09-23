@@ -11,6 +11,7 @@ and code from [CppCon 2019](http://cppcon.org).
 
  - [A Series of Unfortunate Bugs](Presentations/a_series_of_unfortunate_bugs/a_series_of_unfortunate_bugs__satabdi_das__cppcon_2019.pdf) by Satabdi Das
  - [A Short Life span For a Regular Mess](Presentations/a_short_life_span_for_a_regular_mess/a_short_life_span_for_a_regular_mess__victor_ciura__cppcon_2019.pdf) by Victor Ciura
+ - [An Overview of Standard Ranges](Presentations/an_overview_of_standard_ranges/an_overview_of_standard_ranges__tristan_brindle__cppcon_2019.pdf) by Tristan Brindle
  - [Atomics Locks And Tasks](Presentations/atomics_locks_and_tasks/atomics_locks_and_tasks__rainer_grimm__cppcon_2019.pdf) by Rainer Grimm \[[more materials](Presentations/atomics_locks_and_tasks)\]
  - [Back to Basics: Lambdas from Scratch](Presentations/back_to_basics_lambdas_from_scratch/back_to_basics_lambdas_from_scratch__arthur_odwyer__cppcon_2019.pdf) by Arthur O’Dwyer
  - [Back to Basics: RAII and the Rule of Zero](Presentations/back_to_basics_raii_and_the_rule_of_zero/back_to_basics_raii_and_the_rule_of_zero__arthur_odwyer__cppcon_2019.pdf) by Arthur O’Dwyer
