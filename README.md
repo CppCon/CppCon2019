@@ -20,6 +20,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [How to Hold a T](Presentations/how_to_hold_a_t/how_to_hold_a_t__cj_johnson__cppcon_2019.pdf) by CJ Johnson
  - [How to Write a Heap Memory Profiler](Presentations/how_to_write_a_heap_memory_profiler/how_to_write_a_heap_memory_profiler__milian_wolff__cppcon_2019.pdf) by Milian Wolff \[[README](Presentations/how_to_write_a_heap_memory_profiler/README.md)\]
  - [Inference in C++ - The Big Picture](Presentations/inference_in_cpp_the_big_picture/inference_in_cpp_the_big_picture__mike_spertus__cppcon_2019.pdf) by Mike Spertus
+ - [Quickly Testing Legacy C++ Code with Approval Tests](Presentations/quickly_testing_legacy_cpp_code_with_approval_tests/quickly_testing_legacy_cpp_code_with_approval_tests__clare_macrae__cppcon_2019.pdf) by Clare Macrae
  - [Releasing C++ Toolchains Weekly in a Live at Head World](Presentations/releasing_cpp_toolchains_weekly_in_a_live_at_head_world/releasing_cpp_toolchains_weekly_in_a_live_at_head_world__jorge_gorbe_moya_jordan_rupprecht__cppcon_2019.pdf) by Jorge Gorbe Moya, Jordan Rupprecht
  - [Some Programming Myths Revisited](Presentations/some_programming_myths_revisited/some_programming_myths_revisited__patrice_roy__cppcon_2019.pdf) by Patrice Roy
  - [The Smart Pointers I Wish I Had](Presentations/the_smart_pointers_i_wish_i_had/the_smart_pointers_i_wish_i_had__matthew_fleming__cppcon_2019.pdf) by Matthew Fleming
