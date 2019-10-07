@@ -21,6 +21,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [Asynchronous Programming in Modern C++](Presentations/asynchronous_programming_in_modern_cpp/asynchronous_programming_in_modern_cpp__hartmut_kaiser__cppcon_2019.pdf) by Hartmut Kaiser
  - [Atomics Locks And Tasks](Presentations/atomics_locks_and_tasks/atomics_locks_and_tasks__rainer_grimm__cppcon_2019.pdf) by Rainer Grimm \[[more materials](Presentations/atomics_locks_and_tasks)\]
  - [Back to Basics: Lambdas from Scratch](Presentations/back_to_basics_lambdas_from_scratch/back_to_basics_lambdas_from_scratch__arthur_odwyer__cppcon_2019.pdf) by Arthur O’Dwyer
+ - [Back To Basics: OOP](Presentations/back_to_basics_oop/back_to_basics_oop__jon_kalb__cppcon_2019.pdf) by Jon Kalb
  - [Back to Basics: RAII and the Rule of Zero](Presentations/back_to_basics_raii_and_the_rule_of_zero/back_to_basics_raii_and_the_rule_of_zero__arthur_odwyer__cppcon_2019.pdf) by Arthur O’Dwyer
  - [Back to Basics: Smart Pointers](Presentations/back_to_basics_smart_pointers/back_to_basics_smart_pointers__arthur_odwyer__cppcon_2019.pdf) by Arthur O’Dwyer
  - [Back to Basics: Test-Driven Development](Presentations/back_to_basics_testdriven_development/back_to_basics_testdriven_development__fedor_pikus__cppcon_2019.pdf) by Fedor Pikus
