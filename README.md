@@ -29,6 +29,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [C++... Easy, Elegant, Powerful!](Presentations/cpp_easy_elegant_powerful/cpp_easy_elegant_powerful__charles_bay__cppcon_2019.pdf) by Charles Bay
  - [C++ Standard Library "Little Things"](Presentations/cpp_standard_library_little_things/cpp_standard_library_little_things__billy_oneal__cppcon_2019.pdf) by Billy O'Neal
  - [Deep CMake For Library Authors](Presentations/deep_cmake_for_library_authors/deep_cmake_for_library_authors__craig_scott__cppcon_2019.pdf) by Craig Scott
+ - [De-fragmenting C++: Making exceptions and RTTI more affordable and usable](Presentations/defragmenting_cpp_making_exceptions_and_rtti_more_affordable_and_usable/defragmenting_cpp_making_exceptions_and_rtti_more_affordable_and_usable__herb_sutter__cppcon_2019.pdf) by Herb Sutter
  - [Embrace Modern Technology: Using HTML 5 for GUI in C++](Presentations/embrace_modern_technology_using_html_5_for_gui_in_cpp/embrace_modern_technology_using_html_5_for_gui_in_cpp__borislav_stanimirov__cppcon_2019.pdf) by Borislav Stanimirov \[[README](Presentations/embrace_modern_technology_using_html_5_for_gui_in_cpp/README.md)\]
  - [Everyday Efficiency: In-place Construction](Presentations/everyday_efficiency_inplace_construction/everyday_efficiency_inplace_construction__ben_deane__cppcon_2019.pdf) by Ben Deane
  - [Expression Templates for Efficient, Generic Finance Code](Presentations/expression_templatesfor_efficient_generic_finance_code/expression_templatesfor_efficient_generic_finance_code__bowie_owens__cppcon_2019.pdf) by Bowie Owens
