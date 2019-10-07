@@ -28,6 +28,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [C++ Standard Library "Little Things"](Presentations/cpp_standard_library_little_things/cpp_standard_library_little_things__billy_oneal__cppcon_2019.pdf) by Billy O'Neal
  - [Deep CMake For Library Authors](Presentations/deep_cmake_for_library_authors/deep_cmake_for_library_authors__craig_scott__cppcon_2019.pdf) by Craig Scott
  - [Expression Templates for Efficient, Generic Finance Code](Presentations/expression_templatesfor_efficient_generic_finance_code/expression_templatesfor_efficient_generic_finance_code__bowie_owens__cppcon_2019.pdf) by Bowie Owens
+ - [Floating-Point charconv Making Your Code 10x Faster With C++17's Final Boss](Presentations/floatingpoint_charconv_making_your_code_10x_faster_with_cpp17s_final_boss/floatingpoint_charconv_making_your_code_10x_faster_with_cpp17s_final_boss__stephan_t_lavavej__cppcon_2019.pptx) by Stephan T. Lavavej
  - [How to Hold a T](Presentations/how_to_hold_a_t/how_to_hold_a_t__cj_johnson__cppcon_2019.pdf) by CJ Johnson
  - [How to Write a Heap Memory Profiler](Presentations/how_to_write_a_heap_memory_profiler/how_to_write_a_heap_memory_profiler__milian_wolff__cppcon_2019.pdf) by Milian Wolff \[[README](Presentations/how_to_write_a_heap_memory_profiler/README.md)\]
  - [Inference in C++ - The Big Picture](Presentations/inference_in_cpp_the_big_picture/inference_in_cpp_the_big_picture__mike_spertus__cppcon_2019.pdf) by Mike Spertus
@@ -49,7 +50,6 @@ and code from [CppCon 2019](http://cppcon.org).
  - [Catching New Tricks](Lightning%20Talks%20and%20Lunch%20Sessions/catching_new_tricks/catching_new_tricks__martin_ho%C5%99e%C5%88ovsk%C3%BD__cppcon_2019.pdf) by Martin Hořeňovský
  - [Code Samples that Actually Compile](Lightning%20Talks%20and%20Lunch%20Sessions/code_samples_that_actually_compile/code_samples_that_actually_compile__clare_macrae__cppcon_2019.pdf) by Clare Macrae
  - [Highlighting C++ with C++ is... hard](Lightning%20Talks%20and%20Lunch%20Sessions/highlighting_cpp_with_cpp_is_hard/highlighting_cpp_with_cpp_is_hard__marcin_zdun__cppcon_2019.pdf) by Marcin Zdun
- - [Highlighting Cxx with Cxx is Hard](Lightning%20Talks%20and%20Lunch%20Sessions/highlighting_cxx_with_cxx_is_hard/highlighting_cxx_with_cxx_is_hard__marcin_zdun__cppcon_2019.pdf) by Marcin Zdun
  - [Lets Cmakeify the C++ Standard Library](Lightning%20Talks%20and%20Lunch%20Sessions/lets_cmakeify_the_cpp_standard_library/lets_cmakeify_the_cpp_standard_library__jussi_pakkanen__cppcon_2019.pdf) by Jussi Pakkanen
  - [Postmodern Meta C++](Lightning%20Talks%20and%20Lunch%20Sessions/postmodern_meta_cpp/postmodern_meta_cpp__kris_jusiak__cppcon_2019.pdf) by Kris Jusiak
 
