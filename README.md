@@ -26,6 +26,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [Back to Basics: Test-Driven Development](Presentations/back_to_basics_testdriven_development/back_to_basics_testdriven_development__fedor_pikus__cppcon_2019.pdf) by Fedor Pikus
  - [Back To Basics: The Best Parts of C++](Presentations/back_to_basics_the_best_parts_of_cpp/back_to_basics_the_best_parts_of_cpp__jason_turner__cppcon_2019.pdf) by Jason Turner
  - [Back to Basics: Type Erasure](Presentations/back_to_basics_type_erasure/back_to_basics_type_erasure__arthur_odwyer__cppcon_2019.pdf) by Arthur O’Dwyer
+ - [Back To Basics: Virtual Dispatch And Its Alternatives](Presentations/back_to_basics_virtual_dispatch_and_its_alternatives/back_to_basics_virtual_dispatch_and_its_alternatives__inbal_levi__cppcon_2019.pdf) by Inbal Levi
  - [Behind the Scenes of a C++ Build System](Presentations/behind_the_scenes_of_a_cpp_build_system/behind_the_scenes_of_a_cpp_build_system__jussi_pakkanen__cppcon_2019.pdf) by Jussi Pakkanen
  - [Catching ⬆️ - The (Baseline) Unicode Plan for C++23](Presentations/catching__the_baseline_unicode_plan_for_cpp23/catching__the_baseline_unicode_plan_for_cpp23__jeanheyd_meneide__cppcon_2019.pdf) by JeanHeyd Meneide
  - [Clang Based Refactoring](Presentations/clang_based_refactoring/clang_based_refactoring__fred_tingaud__cppcon_2019.pdf) by Fred Tingaud
