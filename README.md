@@ -63,6 +63,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [Catching New Tricks](Lightning%20Talks%20and%20Lunch%20Sessions/catching_new_tricks/catching_new_tricks__martin_ho%C5%99e%C5%88ovsk%C3%BD__cppcon_2019.pdf) by Martin Hořeňovský
  - [Code Samples that Actually Compile](Lightning%20Talks%20and%20Lunch%20Sessions/code_samples_that_actually_compile/code_samples_that_actually_compile__clare_macrae__cppcon_2019.pdf) by Clare Macrae
  - [Highlighting C++ with C++ is... hard](Lightning%20Talks%20and%20Lunch%20Sessions/highlighting_cpp_with_cpp_is_hard/highlighting_cpp_with_cpp_is_hard__marcin_zdun__cppcon_2019.pdf) by Marcin Zdun
+ - [I SPY with my little eye](Lightning%20Talks%20and%20Lunch%20Sessions/i_spy_with_my_little_eye/i_spy_with_my_little_eye__joel_falcou__cppcon_2019.pdf) by Joel Falcou
  - [Lets Cmakeify the C++ Standard Library](Lightning%20Talks%20and%20Lunch%20Sessions/lets_cmakeify_the_cpp_standard_library/lets_cmakeify_the_cpp_standard_library__jussi_pakkanen__cppcon_2019.pdf) by Jussi Pakkanen
  - [Postmodern Meta C++](Lightning%20Talks%20and%20Lunch%20Sessions/postmodern_meta_cpp/postmodern_meta_cpp__kris_jusiak__cppcon_2019.pdf) by Kris Jusiak
  - [The Universe of C++ Types](Lightning%20Talks%20and%20Lunch%20Sessions/the_universe_of_cpp_types/the_universe_of_cpp_types__walter_e_brown__cppcon_2019.pdf) by Walter E. Brown
