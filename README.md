@@ -50,6 +50,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [Meta++](Presentations/meta/meta__andrew_sutton__cppcon_2019.pdf) by Andrew Sutton
  - [Minimal Structured Logging for Autonomous Vehicles](Presentations/minimal_structured_logging_for_autonomous_vehicles/minimal_structured_logging_for_autonomous_vehicles__robert_keelan__cppcon_2019.pdf) by Robert Keelan
  - [Mostly Invalid](Presentations/mostly_invalid/mostly_invalid__arthur_odwyer__cppcon_2019.pdf) by Arthur O’Dwyer
+ - [Naming is Hard: Let's Do Better](Presentations/naming_is_hard_lets_do_better/naming_is_hard_lets_do_better__kate_gregory__cppcon_2019.pdf) by Kate Gregory
  - [Path Tracing Three Ways: A Study of C++ Styles](Presentations/path_tracing_three_ways_a_study_of_cpp_styles/path_tracing_three_ways_a_study_of_cpp_styles__matt_godbolt__cppcon_2019.pdf) by Matt Godbolt \[[README](Presentations/path_tracing_three_ways_a_study_of_cpp_styles/README.md)\] \[[more materials](Presentations/path_tracing_three_ways_a_study_of_cpp_styles)\]
  - [Quickly Testing Legacy C++ Code with Approval Tests](Presentations/quickly_testing_legacy_cpp_code_with_approval_tests/quickly_testing_legacy_cpp_code_with_approval_tests__clare_macrae__cppcon_2019.pdf) by Clare Macrae \[[more materials](Presentations/quickly_testing_legacy_cpp_code_with_approval_tests)\]
  - [Range Algorithms, Views and Actions: A Comprehensive Guide](Presentations/range_algorithms_views_and_actions_a_comprehensive_guide/range_algorithms_views_and_actions_a_comprehensive_guide__dvir_yitzchaki__cppcon_2019.pdf) by Dvir Yitzchaki
