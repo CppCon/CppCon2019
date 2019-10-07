@@ -48,6 +48,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [Algorithm Magic](Lightning%20Talks%20and%20Lunch%20Sessions/algorithm_magic/algorithm_magic__rene_rivera__cppcon_2019.pdf) by Rene Rivera \[[more materials](Lightning%20Talks%20and%20Lunch%20Sessions/algorithm_magic)\]
  - [Catching New Tricks](Lightning%20Talks%20and%20Lunch%20Sessions/catching_new_tricks/catching_new_tricks__martin_ho%C5%99e%C5%88ovsk%C3%BD__cppcon_2019.pdf) by Martin Hořeňovský
  - [Code Samples that Actually Compile](Lightning%20Talks%20and%20Lunch%20Sessions/code_samples_that_actually_compile/code_samples_that_actually_compile__clare_macrae__cppcon_2019.pdf) by Clare Macrae
+ - [Highlighting C++ with C++ is... hard](Lightning%20Talks%20and%20Lunch%20Sessions/highlighting_cpp_with_cpp_is_hard/highlighting_cpp_with_cpp_is_hard__marcin_zdun__cppcon_2019.pdf) by Marcin Zdun
  - [Highlighting Cxx with Cxx is Hard](Lightning%20Talks%20and%20Lunch%20Sessions/highlighting_cxx_with_cxx_is_hard/highlighting_cxx_with_cxx_is_hard__marcin_zdun__cppcon_2019.pdf) by Marcin Zdun
  - [Lets Cmakeify the C++ Standard Library](Lightning%20Talks%20and%20Lunch%20Sessions/lets_cmakeify_the_cpp_standard_library/lets_cmakeify_the_cpp_standard_library__jussi_pakkanen__cppcon_2019.pdf) by Jussi Pakkanen
  - [Postmodern Meta C++](Lightning%20Talks%20and%20Lunch%20Sessions/postmodern_meta_cpp/postmodern_meta_cpp__kris_jusiak__cppcon_2019.pdf) by Kris Jusiak
