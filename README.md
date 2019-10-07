@@ -29,6 +29,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [Concurrency in C++20 and beyond](Presentations/concurrency_in_cpp20_and_beyond/concurrency_in_cpp20_and_beyond__anthony_williams__cppcon_2019.pdf) by Anthony Williams
  - [C++ as a First Language... Really?](Presentations/cpp_as_a_first_language_really/cpp_as_a_first_language_really__patrice_roy__cppcon_2019.pdf) by Patrice Roy
  - [C++ Class Natures in Their Canonical Form](Presentations/cpp_class_natures_in_their_canonical_form/cpp_class_natures_in_their_canonical_form__peter_sommerlad__cppcon_2019.pdf) by Peter Sommerlad
+ - [C++ Code Smells](Presentations/cpp_code_smells/cpp_code_smells__jason_turner__cppcon_2019.pdf) by Jason Turner
  - [C++... Easy, Elegant, Powerful!](Presentations/cpp_easy_elegant_powerful/cpp_easy_elegant_powerful__charles_bay__cppcon_2019.pdf) by Charles Bay
  - [C++ Standard Library "Little Things"](Presentations/cpp_standard_library_little_things/cpp_standard_library_little_things__billy_oneal__cppcon_2019.pdf) by Billy O'Neal
  - [Deep CMake For Library Authors](Presentations/deep_cmake_for_library_authors/deep_cmake_for_library_authors__craig_scott__cppcon_2019.pdf) by Craig Scott
