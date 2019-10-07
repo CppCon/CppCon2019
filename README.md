@@ -59,6 +59,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [From Algorithm to Generic, Parallel Code](Presentations/from_algorithm_to_generic_parallel_code/from_algorithm_to_generic_parallel_code__dietmar_kuhl__cppcon_2019.pdf) by Dietmar Kuhl \[[more materials](Presentations/from_algorithm_to_generic_parallel_code)\]
  - [From Functions to Lambdas: How Do C++ Callables Really Work?](Presentations/from_functions_to_lambdas_how_do_cpp_callables_really_work/from_functions_to_lambdas_how_do_cpp_callables_really_work__walter_e_brown__cppcon_2019.pdf) by Walter E. Brown
  - [From STL to Ranges](Presentations/from_stl_to_ranges/from_stl_to_ranges__jeff_garland__cppcon_2019.pdf) by Jeff Garland
+ - [Generators, Coroutines and Other Brain Unrolling Sweetness](Presentations/generators_coroutines_and_other_brain_unrolling_sweetness/generators_coroutines_and_other_brain_unrolling_sweetness__adi_shavit__cppcon_2019.pdf) by Adi Shavit
  - [Getting Allocators out of Our Way](Presentations/getting_allocators_out_of_our_way/getting_allocators_out_of_our_way__alisdair_meredith__pablo_halpern__cppcon_2019.pdf) by Alisdair Meredith & Pablo Halpern
  - [Great C++ is_trivial](Presentations/great_cpp_is_trivial/great_cpp_is_trivial__jason_turner__cppcon_2019.pdf) by Jason Turner
  - [High Performance Graphicsand Text Rendering on the GPU](Presentations/high_performance_graphicsand_text_rendering_on_the_gpu/high_performance_graphicsand_text_rendering_on_the_gpu__barbara_geller__ansel_sermersheim__cppcon_2019.pdf) by Barbara Geller & Ansel Sermersheim
