@@ -119,5 +119,5 @@ and code from [CppCon 2019](http://cppcon.org).
  - [Empirical](Posters/empirical/empirical__matthew_andres_moreno_charles_ofria__cppcon_2019.pdf) by Matthew Andres Moreno, Charles Ofria
  - [High-level Synthesis with SLX FPGA](Posters/highlevel_synthesis_with_slx_fpga/highlevel_synthesis_with_slx_fpga__matthias_gehre__cppcon_2019.pdf) by Matthias Gehre
  - [How Snap uses C++ to build the most-used augmented reality platform](Posters/how_snap_uses_cpp_to_build_the_mostused_augmented_reality_platform/how_snap_uses_cpp_to_build_the_mostused_augmented_reality_platform__evgenii_zaikin_fedir_poliakov_yurii_monastyrshyn__cppcon_2019.pdf) by Evgenii Zaikin, Fedir Poliakov, Yurii Monastyrshyn
- - [Meet Beetroot](Posters/meet_beetroot/meet_beetroot__adam_ryczkowski__cppcon_2019.pdf) by Adam Ryczkowski
+ - [Meet Beetroot](Posters/meet_beetroot/meet_beetroot__adam_ryczkowski__cppcon_2019.pdf) by Adam Ryczkowski \[[more materials](Posters/meet_beetroot)\]
  - [Yet Another Fast Log](Posters/yet_another_fast_log/yet_another_fast_log__ran_regev__cppcon_2019.pdf) by Ran Regev
