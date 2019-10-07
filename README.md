@@ -29,6 +29,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [Concepts in C++20 Revolution or Evolution](Presentations/concepts_in_cpp20_revolution_or_evolution/concepts_in_cpp20_revolution_or_evolution__rainer_grimm__cppcon_2019.pdf) by Rainer Grimm
  - [Concurrency in C++20 and beyond](Presentations/concurrency_in_cpp20_and_beyond/concurrency_in_cpp20_and_beyond__anthony_williams__cppcon_2019.pdf) by Anthony Williams
  - [C++ as a First Language... Really?](Presentations/cpp_as_a_first_language_really/cpp_as_a_first_language_really__patrice_roy__cppcon_2019.pdf) by Patrice Roy
+ - [C++ at 40](Presentations/cpp_at_40/cpp_at_40__bjarne_stroustrup__cppcon_2019.pdf) by Bjarne Stroustrup
  - [C++ Class Natures in Their Canonical Form](Presentations/cpp_class_natures_in_their_canonical_form/cpp_class_natures_in_their_canonical_form__peter_sommerlad__cppcon_2019.pdf) by Peter Sommerlad
  - [C++ Code Smells](Presentations/cpp_code_smells/cpp_code_smells__jason_turner__cppcon_2019.pdf) by Jason Turner
  - [C++... Easy, Elegant, Powerful!](Presentations/cpp_easy_elegant_powerful/cpp_easy_elegant_powerful__charles_bay__cppcon_2019.pdf) by Charles Bay
