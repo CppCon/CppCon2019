@@ -92,6 +92,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [The Design of The C++ Runtime For AWS Lambda](Presentations/the_design_of_the_cpp_runtime_for_aws_lambda/the_design_of_the_cpp_runtime_for_aws_lambda__marco_magdy__cppcon_2019.pdf) by Marco Magdy \[[README](Presentations/the_design_of_the_cpp_runtime_for_aws_lambda/README.md)\]
  - [The Networking TS in Practice: Patterns for Real World Problems](Presentations/the_networking_ts_in_practice_patterns_for_real_world_problems/the_networking_ts_in_practice_patterns_for_real_world_problems__robert_leahy__cppcon_2019.pdf) by Robert Leahy \[[more materials](Presentations/the_networking_ts_in_practice_patterns_for_real_world_problems)\]
  - [The Smart Pointers I Wish I Had](Presentations/the_smart_pointers_i_wish_i_had/the_smart_pointers_i_wish_i_had__matthew_fleming__cppcon_2019.pdf) by Matthew Fleming
+ - [The Truth of a Procedure](Presentations/the_truth_of_a_procedure/the_truth_of_a_procedure__lisa_lippincott__cppcon_2019.pdf) by Lisa Lippincott
  - [This Videogame Programmer Used the STL](Presentations/this_videogame_programmer_used_the_stl/this_videogame_programmer_used_the_stl__mathieu_ropert__cppcon_2019.pdf) by Mathieu Ropert
  - [TMI on UDL](Presentations/tmi_on_udl/tmi_on_udl__stephen_dewhurst__cppcon_2019.pdf) by Stephen Dewhurst
  - [unique_pseudofunction](Presentations/unique_pseudofunction/unique_pseudofunction__filipp_gelman__cppcon_2019.pdf) by Filipp Gelman
