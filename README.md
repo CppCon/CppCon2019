@@ -109,4 +109,5 @@ and code from [CppCon 2019](http://cppcon.org).
 
  - [A Study of Integer Sum Reduction using SYCL](Posters/a_study_of_integer_sum_reduction_using_sycl/a_study_of_integer_sum_reduction_using_sycl__zheming_jin_hal_finkel__cppcon_2019.pdf) by Zheming Jin, Hal Finkel
  - [Analysis of Template Matching by Comparing C++ Concurrency with CUDA and OpenCV](Posters/analysis_of_template_matching_by_comparing_cpp_concurrency_with_cuda_and_opencv/analysis_of_template_matching_by_comparing_cpp_concurrency_with_cuda_and_opencv__aditya_immaneni_victor_r_cabrera_vadim_pinskiy_matthew_c_putman__cppcon_2019.pdf) by Aditya Immaneni, Victor R. Cabrera, Vadim Pinskiy, Matthew C. Putman
+ - [Empirical](Posters/empirical/empirical__matthew_andres_moreno_charles_ofria__cppcon_2019.pdf) by Matthew Andres Moreno, Charles Ofria
  - [High-level Synthesis with SLX FPGA](Posters/highlevel_synthesis_with_slx_fpga/highlevel_synthesis_with_slx_fpga__matthias_gehre__cppcon_2019.pdf) by Matthias Gehre
