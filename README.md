@@ -61,6 +61,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [Minimal Structured Logging for Autonomous Vehicles](Presentations/minimal_structured_logging_for_autonomous_vehicles/minimal_structured_logging_for_autonomous_vehicles__robert_keelan__cppcon_2019.pdf) by Robert Keelan
  - [Mostly Invalid](Presentations/mostly_invalid/mostly_invalid__arthur_odwyer__cppcon_2019.pdf) by Arthur O’Dwyer
  - [Naming is Hard: Let's Do Better](Presentations/naming_is_hard_lets_do_better/naming_is_hard_lets_do_better__kate_gregory__cppcon_2019.pdf) by Kate Gregory
+ - [Non-conforming C++](Presentations/nonconforming_cpp/nonconforming_cpp__miro_knejp__cppcon_2019.pdf) by Miro Knejp
  - [Path Tracing Three Ways: A Study of C++ Styles](Presentations/path_tracing_three_ways_a_study_of_cpp_styles/path_tracing_three_ways_a_study_of_cpp_styles__matt_godbolt__cppcon_2019.pdf) by Matt Godbolt \[[README](Presentations/path_tracing_three_ways_a_study_of_cpp_styles/README.md)\] \[[more materials](Presentations/path_tracing_three_ways_a_study_of_cpp_styles)\]
  - [Practical C++ Modules](Presentations/practical_cpp_modules/practical_cpp_modules__boris_kolpackov__cppcon_2019.pdf) by Boris Kolpackov
  - [Quickly Testing Legacy C++ Code with Approval Tests](Presentations/quickly_testing_legacy_cpp_code_with_approval_tests/quickly_testing_legacy_cpp_code_with_approval_tests__clare_macrae__cppcon_2019.pdf) by Clare Macrae \[[more materials](Presentations/quickly_testing_legacy_cpp_code_with_approval_tests)\]
