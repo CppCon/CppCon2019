@@ -13,6 +13,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [A Series of Unfortunate Bugs](Presentations/a_series_of_unfortunate_bugs/a_series_of_unfortunate_bugs__satabdi_das__cppcon_2019.pdf) by Satabdi Das
  - [A Short Life span For a Regular Mess](Presentations/a_short_life_span_for_a_regular_mess/a_short_life_span_for_a_regular_mess__victor_ciura__cppcon_2019.pdf) by Victor Ciura
  - [A Unifying Abstraction for Async in C++](Presentations/a_unifying_abstraction_for_async_in_cpp/a_unifying_abstraction_for_async_in_cpp__eric_niebler_david_s_hollman__cppcon_2019.pdf) by Eric Niebler, David S Hollman
+ - [Abseil's Open Source Hashtable: 2 Years In](Presentations/abseils_open_source_hashtable_2_years_in/abseils_open_source_hashtable_2_years_in__matthew_kulukundis__cppcon_2019.pdf) by Matthew Kulukundis
  - [(Ab)using compiler tools](Presentations/abusing_compiler_tools/abusing_compiler_tools__reka_kovacs__cppcon_2019.pdf) by Reka Kovacs
  - [Address Sanitizers + Cloud at Microsoft](Presentations/address_sanitizers__cloud_at_microsoft/address_sanitizers__cloud_at_microsoft__jim_radigan__cppcon_2019.pptx) by Jim Radigan
  - [An Overview of Standard Ranges](Presentations/an_overview_of_standard_ranges/an_overview_of_standard_ranges__tristan_brindle__cppcon_2019.pdf) by Tristan Brindle
