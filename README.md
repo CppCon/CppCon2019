@@ -104,3 +104,4 @@ and code from [CppCon 2019](http://cppcon.org).
 
 ## Posters
 
+ - [High-level Synthesis with SLX FPGA](Posters/highlevel_synthesis_with_slx_fpga/highlevel_synthesis_with_slx_fpga__matthias_gehre__cppcon_2019.pdf) by Matthias Gehre
