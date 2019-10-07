@@ -20,6 +20,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [Back to Basics: Type Erasure](Presentations/back_to_basics_type_erasure/back_to_basics_type_erasure__arthur_odwyer__cppcon_2019.pdf) by Arthur O’Dwyer
  - [Behind the Scenes of a C++ Build System](Presentations/behind_the_scenes_of_a_cpp_build_system/behind_the_scenes_of_a_cpp_build_system__jussi_pakkanen__cppcon_2019.pdf) by Jussi Pakkanen
  - [Catching ⬆️ - The (Baseline) Unicode Plan for C++23](Presentations/catching__the_baseline_unicode_plan_for_cpp23/catching__the_baseline_unicode_plan_for_cpp23__jeanheyd_meneide__cppcon_2019.pdf) by JeanHeyd Meneide
+ - [Clang Based Refactoring](Presentations/clang_based_refactoring/clang_based_refactoring__fred_tingaud__cppcon_2019.pdf) by Fred Tingaud
  - [Compiler Explorer: Behind the Scenes](Presentations/compiler_explorer_behind_the_scenes/compiler_explorer_behind_the_scenes__matt_godbolt__cppcon_2019.pdf) by Matt Godbolt \[[README](Presentations/compiler_explorer_behind_the_scenes/README.md)\] \[[more materials](Presentations/compiler_explorer_behind_the_scenes)\]
  - [Concepts in C++20 Revolution or Evolution](Presentations/concepts_in_cpp20_revolution_or_evolution/concepts_in_cpp20_revolution_or_evolution__rainer_grimm__cppcon_2019.pdf) by Rainer Grimm
  - [C++ as a First Language... Really?](Presentations/cpp_as_a_first_language_really/cpp_as_a_first_language_really__patrice_roy__cppcon_2019.pdf) by Patrice Roy
