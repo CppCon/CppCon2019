@@ -19,8 +19,8 @@ and code from [CppCon 2019](http://cppcon.org).
  - [Address Sanitizers + Cloud at Microsoft](Presentations/address_sanitizers__cloud_at_microsoft/address_sanitizers__cloud_at_microsoft__jim_radigan__cppcon_2019.pptx) by Jim Radigan
  - [An Overview of Standard Ranges](Presentations/an_overview_of_standard_ranges/an_overview_of_standard_ranges__tristan_brindle__cppcon_2019.pdf) by Tristan Brindle
  - [Asynchronous Programming in Modern C++](Presentations/asynchronous_programming_in_modern_cpp/asynchronous_programming_in_modern_cpp__hartmut_kaiser__cppcon_2019.pdf) by Hartmut Kaiser
- - [Atomics Locks And Tasks](Presentations/atomics_locks_and_tasks/atomics_locks_and_tasks__rainer_grimm__cppcon_2019.pdf) by Rainer Grimm \[[more materials](Presentations/atomics_locks_and_tasks)\]
- - [Back To Basics: Atomics, Locks, and Tasks](Presentations/back_to_basics_atomics_locks_and_tasks/back_to_basics_atomics_locks_and_tasks__rainer_grimm__cppcon_2019.pdf) by Rainer Grimm
+ - [Atomics Locks And Tasks](Presentations/atomics_locks_and_tasks) by Rainer Grimm
+ - [Back To Basics: Atomics, Locks, and Tasks](Presentations/back_to_basics_atomics_locks_and_tasks/back_to_basics_atomics_locks_and_tasks__rainer_grimm__cppcon_2019.pdf) by Rainer Grimm \[[more materials](Presentations/back_to_basics_atomics_locks_and_tasks)\]
  - [Back to Basics: Lambdas from Scratch](Presentations/back_to_basics_lambdas_from_scratch/back_to_basics_lambdas_from_scratch__arthur_odwyer__cppcon_2019.pdf) by Arthur O’Dwyer
  - [Back to Basics: Move Semantics (part 1)](Presentations/back_to_basics_move_semantics_part_1/back_to_basics_move_semantics_part_1__klaus_iglberger__cppcon_2019.pdf) by Klaus Iglberger
  - [Back to Basics: Move Semantics (part 2)](Presentations/back_to_basics_move_semantics_part_2/back_to_basics_move_semantics_part_2__klaus_iglberger__cppcon_2019.pdf) by Klaus Iglberger
