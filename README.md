@@ -67,6 +67,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [Algorithm Magic](Lightning%20Talks%20and%20Lunch%20Sessions/algorithm_magic/algorithm_magic__rene_rivera__cppcon_2019.pdf) by Rene Rivera \[[more materials](Lightning%20Talks%20and%20Lunch%20Sessions/algorithm_magic)\]
  - [Catching New Tricks](Lightning%20Talks%20and%20Lunch%20Sessions/catching_new_tricks/catching_new_tricks__martin_ho%C5%99e%C5%88ovsk%C3%BD__cppcon_2019.pdf) by Martin Hořeňovský
  - [Code Samples that Actually Compile](Lightning%20Talks%20and%20Lunch%20Sessions/code_samples_that_actually_compile/code_samples_that_actually_compile__clare_macrae__cppcon_2019.pdf) by Clare Macrae
+ - [Detecting Programs That Rely on Undefined Behavior](Lightning%20Talks%20and%20Lunch%20Sessions/detecting_programs_that_rely_on_undefined_behavior/detecting_programs_that_rely_on_undefined_behavior__geoffrey_l_viola__cppcon_2019.pdf) by Geoffrey L. Viola
  - [Highlighting C++ with C++ is... hard](Lightning%20Talks%20and%20Lunch%20Sessions/highlighting_cpp_with_cpp_is_hard/highlighting_cpp_with_cpp_is_hard__marcin_zdun__cppcon_2019.pdf) by Marcin Zdun
  - [I SPY with my little eye](Lightning%20Talks%20and%20Lunch%20Sessions/i_spy_with_my_little_eye/i_spy_with_my_little_eye__joel_falcou__cppcon_2019.pdf) by Joel Falcou
  - [Lets Cmakeify the C++ Standard Library](Lightning%20Talks%20and%20Lunch%20Sessions/lets_cmakeify_the_cpp_standard_library/lets_cmakeify_the_cpp_standard_library__jussi_pakkanen__cppcon_2019.pdf) by Jussi Pakkanen
