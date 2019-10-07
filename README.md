@@ -13,6 +13,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [A Short Life span For a Regular Mess](Presentations/a_short_life_span_for_a_regular_mess/a_short_life_span_for_a_regular_mess__victor_ciura__cppcon_2019.pdf) by Victor Ciura
  - [A Unifying Abstraction for Async in C++](Presentations/a_unifying_abstraction_for_async_in_cpp/a_unifying_abstraction_for_async_in_cpp__eric_niebler_david_s_hollman__cppcon_2019.pdf) by Eric Niebler, David S Hollman
  - [(Ab)using compiler tools](Presentations/abusing_compiler_tools/abusing_compiler_tools__reka_kovacs__cppcon_2019.pdf) by Reka Kovacs
+ - [Address Sanitizers + Cloud at Microsoft](Presentations/address_sanitizers__cloud_at_microsoft/address_sanitizers__cloud_at_microsoft__jim_radigan__cppcon_2019.pptx) by Jim Radigan
  - [An Overview of Standard Ranges](Presentations/an_overview_of_standard_ranges/an_overview_of_standard_ranges__tristan_brindle__cppcon_2019.pdf) by Tristan Brindle
  - [Asynchronous Programming in Modern C++](Presentations/asynchronous_programming_in_modern_cpp/asynchronous_programming_in_modern_cpp__hartmut_kaiser__cppcon_2019.pdf) by Hartmut Kaiser
  - [Atomics Locks And Tasks](Presentations/atomics_locks_and_tasks/atomics_locks_and_tasks__rainer_grimm__cppcon_2019.pdf) by Rainer Grimm \[[more materials](Presentations/atomics_locks_and_tasks)\]
