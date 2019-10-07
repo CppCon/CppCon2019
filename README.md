@@ -46,6 +46,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [Inference in C++ - The Big Picture](Presentations/inference_in_cpp_the_big_picture/inference_in_cpp_the_big_picture__mike_spertus__cppcon_2019.pdf) by Mike Spertus
  - [Lifetime analysis for everyone](Presentations/lifetime_analysis_for_everyone/lifetime_analysis_for_everyone__matthias_gehre_gabor_horvath__cppcon_2019.pptx) by Matthias Gehre, Gabor Horvath
  - [Mesh: Automatically Compacting Your C++ Application's Memory](Presentations/mesh_automatically_compacting_your_cpp_applications_memory/mesh_automatically_compacting_your_cpp_applications_memory__emery_berger__cppcon_2019.pdf) by Emery Berger
+ - [Meta++](Presentations/meta/meta__andrew_sutton__cppcon_2019.pdf) by Andrew Sutton
  - [Minimal Structured Logging for Autonomous Vehicles](Presentations/minimal_structured_logging_for_autonomous_vehicles/minimal_structured_logging_for_autonomous_vehicles__robert_keelan__cppcon_2019.pdf) by Robert Keelan
  - [Mostly Invalid](Presentations/mostly_invalid/mostly_invalid__arthur_odwyer__cppcon_2019.pdf) by Arthur O’Dwyer
  - [Path Tracing Three Ways: A Study of C++ Styles](Presentations/path_tracing_three_ways_a_study_of_cpp_styles/path_tracing_three_ways_a_study_of_cpp_styles__matt_godbolt__cppcon_2019.pdf) by Matt Godbolt \[[README](Presentations/path_tracing_three_ways_a_study_of_cpp_styles/README.md)\] \[[more materials](Presentations/path_tracing_three_ways_a_study_of_cpp_styles)\]
