@@ -51,6 +51,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [How to Hold a T](Presentations/how_to_hold_a_t/how_to_hold_a_t__cj_johnson__cppcon_2019.pdf) by CJ Johnson
  - [How to Write a Heap Memory Profiler](Presentations/how_to_write_a_heap_memory_profiler/how_to_write_a_heap_memory_profiler__milian_wolff__cppcon_2019.pdf) by Milian Wolff \[[README](Presentations/how_to_write_a_heap_memory_profiler/README.md)\]
  - [Inference in C++ - The Big Picture](Presentations/inference_in_cpp_the_big_picture/inference_in_cpp_the_big_picture__mike_spertus__cppcon_2019.pdf) by Mike Spertus
+ - [Leveraging Modern C++ in Quantitative Finance](Presentations/leveraging_modern_cpp_in_quantitative_finance/leveraging_modern_cpp_in_quantitative_finance__daniel_hanson__cppcon_2019.pdf) by Daniel Hanson
  - [Lifetime analysis for everyone](Presentations/lifetime_analysis_for_everyone/lifetime_analysis_for_everyone__matthias_gehre_gabor_horvath__cppcon_2019.pptx) by Matthias Gehre, Gabor Horvath
  - [Mesh: Automatically Compacting Your C++ Application's Memory](Presentations/mesh_automatically_compacting_your_cpp_applications_memory/mesh_automatically_compacting_your_cpp_applications_memory__emery_berger__cppcon_2019.pdf) by Emery Berger
  - [Meta++](Presentations/meta/meta__andrew_sutton__cppcon_2019.pdf) by Andrew Sutton
