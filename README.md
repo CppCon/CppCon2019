@@ -72,6 +72,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [Solve Hard Problems Quickly Using SAT Solvers](Presentations/solve_hard_problems_quickly_using_sat_solvers/solve_hard_problems_quickly_using_sat_solvers__martin_ho%C5%99e%C5%88ovsk%C3%BD__cppcon_2019.pdf) by Martin Hořeňovský
  - [Some Programming Myths Revisited](Presentations/some_programming_myths_revisited/some_programming_myths_revisited__patrice_roy__cppcon_2019.pdf) by Patrice Roy
  - [Speed Is Found In The Minds Of People](Presentations/speed_is_found_in_the_minds_of_people/speed_is_found_in_the_minds_of_people__andrei_alexandrescu__cppcon_2019.pdf) by Andrei Alexandrescu
+ - [The Design of The C++ Runtime For AWS Lambda](Presentations/the_design_of_the_cpp_runtime_for_aws_lambda/the_design_of_the_cpp_runtime_for_aws_lambda__marco_magdy__cppcon_2019.pdf) by Marco Magdy
  - [The Networking TS in Practice: Patterns for Real World Problems](Presentations/the_networking_ts_in_practice_patterns_for_real_world_problems/the_networking_ts_in_practice_patterns_for_real_world_problems__robert_leahy__cppcon_2019.pdf) by Robert Leahy \[[more materials](Presentations/the_networking_ts_in_practice_patterns_for_real_world_problems)\]
  - [The Smart Pointers I Wish I Had](Presentations/the_smart_pointers_i_wish_i_had/the_smart_pointers_i_wish_i_had__matthew_fleming__cppcon_2019.pdf) by Matthew Fleming
  - [This Videogame Programmer Used the STL](Presentations/this_videogame_programmer_used_the_stl/this_videogame_programmer_used_the_stl__mathieu_ropert__cppcon_2019.pdf) by Mathieu Ropert
