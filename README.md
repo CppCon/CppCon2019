@@ -71,6 +71,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [The Networking TS in Practice: Patterns for Real World Problems](Presentations/the_networking_ts_in_practice_patterns_for_real_world_problems/the_networking_ts_in_practice_patterns_for_real_world_problems__robert_leahy__cppcon_2019.pdf) by Robert Leahy \[[more materials](Presentations/the_networking_ts_in_practice_patterns_for_real_world_problems)\]
  - [The Smart Pointers I Wish I Had](Presentations/the_smart_pointers_i_wish_i_had/the_smart_pointers_i_wish_i_had__matthew_fleming__cppcon_2019.pdf) by Matthew Fleming
  - [This Videogame Programmer Used the STL](Presentations/this_videogame_programmer_used_the_stl/this_videogame_programmer_used_the_stl__mathieu_ropert__cppcon_2019.pdf) by Mathieu Ropert
+ - [TMI on UDL](Presentations/tmi_on_udl/tmi_on_udl__stephen_dewhurst__cppcon_2019.pdf) by Stephen Dewhurst
  - [Using C++20’s Three-way Comparison ](Presentations/using_cpp20s_threeway_comparison_/using_cpp20s_threeway_comparison___jonathan_m%C3%BCller__cppcon_2019.pdf) by Jonathan Müller
 
 ## Lightning Talks and Lunch Sessions
