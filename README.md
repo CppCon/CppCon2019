@@ -105,4 +105,5 @@ and code from [CppCon 2019](http://cppcon.org).
 
 ## Posters
 
+ - [A Study of Integer Sum Reduction using SYCL](Posters/a_study_of_integer_sum_reduction_using_sycl/a_study_of_integer_sum_reduction_using_sycl__zheming_jin_hal_finkel__cppcon_2019.pdf) by Zheming Jin, Hal Finkel
  - [High-level Synthesis with SLX FPGA](Posters/highlevel_synthesis_with_slx_fpga/highlevel_synthesis_with_slx_fpga__matthias_gehre__cppcon_2019.pdf) by Matthias Gehre
