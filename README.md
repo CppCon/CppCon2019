@@ -46,6 +46,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [Deep CMake For Library Authors](Presentations/deep_cmake_for_library_authors/deep_cmake_for_library_authors__craig_scott__cppcon_2019.pdf) by Craig Scott
  - [De-fragmenting C++: Making exceptions and RTTI more affordable and usable](Presentations/defragmenting_cpp_making_exceptions_and_rtti_more_affordable_and_usable/defragmenting_cpp_making_exceptions_and_rtti_more_affordable_and_usable__herb_sutter__cppcon_2019.pdf) by Herb Sutter
  - [Design Patterns](Presentations/design_patterns/design_patterns__fedor_pikus__cppcon_2019.pdf) by Fedor Pikus
+ - [Destructor Case Studies](Presentations/destructor_case_studies/destructor_case_studies__pete_isensee__cppcon_2019.pdf) by Pete Isensee
  - [EDSL Infinity War Mainstreaming Symbolic Computation](Presentations/edsl_infinity_war_mainstreaming_symbolic_computation/edsl_infinity_war_mainstreaming_symbolic_computation__joel_falcou_and_vincent_reverdy__cppcon_2019.pdf) by Joel Falcou and Vincent Reverdy
  - [Embrace Modern Technology: Using HTML 5 for GUI in C++](Presentations/embrace_modern_technology_using_html_5_for_gui_in_cpp/embrace_modern_technology_using_html_5_for_gui_in_cpp__borislav_stanimirov__cppcon_2019.pdf) by Borislav Stanimirov \[[README](Presentations/embrace_modern_technology_using_html_5_for_gui_in_cpp/README.md)\]
  - [Error handling is cancelling operations](Presentations/error_handling_is_cancelling_operations/error_handling_is_cancelling_operations__andrzej_krzemienski__cppcon_2019.pdf) by Andrzej Krzemienski
