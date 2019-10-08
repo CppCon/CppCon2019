@@ -20,6 +20,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [An Overview of Standard Ranges](Presentations/an_overview_of_standard_ranges/an_overview_of_standard_ranges__tristan_brindle__cppcon_2019.pdf) by Tristan Brindle
  - [Asynchronous Programming in Modern C++](Presentations/asynchronous_programming_in_modern_cpp/asynchronous_programming_in_modern_cpp__hartmut_kaiser__cppcon_2019.pdf) by Hartmut Kaiser
  - [Atomics Locks And Tasks](Presentations/atomics_locks_and_tasks) by Rainer Grimm
+ - [Avoid Misuse of Contracts](Presentations/avoid_misuse_of_contracts/avoid_misuse_of_contracts__rostislav_khlebnikov__cppcon_2019.pdf) by Rostislav Khlebnikov
  - [Back To Basics: Atomics, Locks, and Tasks](Presentations/back_to_basics_atomics_locks_and_tasks/back_to_basics_atomics_locks_and_tasks__rainer_grimm__cppcon_2019.pdf) by Rainer Grimm \[[more materials](Presentations/back_to_basics_atomics_locks_and_tasks)\]
  - [Back to Basics: Lambdas from Scratch](Presentations/back_to_basics_lambdas_from_scratch/back_to_basics_lambdas_from_scratch__arthur_odwyer__cppcon_2019.pdf) by Arthur O’Dwyer
  - [Back to Basics: Move Semantics (part 1)](Presentations/back_to_basics_move_semantics_part_1/back_to_basics_move_semantics_part_1__klaus_iglberger__cppcon_2019.pdf) by Klaus Iglberger
