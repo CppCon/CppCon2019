@@ -83,6 +83,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [Non-conforming C++](Presentations/nonconforming_cpp/nonconforming_cpp__miro_knejp__cppcon_2019.pdf) by Miro Knejp
  - [Path Tracing Three Ways: A Study of C++ Styles](Presentations/path_tracing_three_ways_a_study_of_cpp_styles/path_tracing_three_ways_a_study_of_cpp_styles__matt_godbolt__cppcon_2019.pdf) by Matt Godbolt \[[README](Presentations/path_tracing_three_ways_a_study_of_cpp_styles/README.md)\] \[[more materials](Presentations/path_tracing_three_ways_a_study_of_cpp_styles)\]
  - [Pattern Matching: A Sneak Peek](Presentations/pattern_matching_a_sneak_peek/pattern_matching_a_sneak_peek__michael_park__cppcon_2019.pdf) by Michael Park
+ - [Polymorphism != Virtual](Presentations/polymorphism__virtual/polymorphism__virtual__john_bandela__cppcon_2019.pdf) by John Bandela
  - [Practical C++ Modules](Presentations/practical_cpp_modules/practical_cpp_modules__boris_kolpackov__cppcon_2019.pdf) by Boris Kolpackov
  - [Quickly Testing Legacy C++ Code with Approval Tests](Presentations/quickly_testing_legacy_cpp_code_with_approval_tests/quickly_testing_legacy_cpp_code_with_approval_tests__clare_macrae__cppcon_2019.pdf) by Clare Macrae \[[more materials](Presentations/quickly_testing_legacy_cpp_code_with_approval_tests)\]
  - [Range Algorithms, Views and Actions: A Comprehensive Guide](Presentations/range_algorithms_views_and_actions_a_comprehensive_guide/range_algorithms_views_and_actions_a_comprehensive_guide__dvir_yitzchaki__cppcon_2019.pdf) by Dvir Yitzchaki
