@@ -99,6 +99,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [The Truth of a Procedure](Presentations/the_truth_of_a_procedure/the_truth_of_a_procedure__lisa_lippincott__cppcon_2019.pdf) by Lisa Lippincott
  - [This Videogame Programmer Used the STL](Presentations/this_videogame_programmer_used_the_stl/this_videogame_programmer_used_the_stl__mathieu_ropert__cppcon_2019.pdf) by Mathieu Ropert
  - [TMI on UDL](Presentations/tmi_on_udl/tmi_on_udl__stephen_dewhurst__cppcon_2019.pdf) by Stephen Dewhurst
+ - [Unicode: Going Down the Rabbit Hole](Presentations/unicode_going_down_the_rabbit_hole/unicode_going_down_the_rabbit_hole__peter_bindels__cppcon_2019.pdf) by Peter Bindels
  - [unique_pseudofunction](Presentations/unique_pseudofunction/unique_pseudofunction__filipp_gelman__cppcon_2019.pdf) by Filipp Gelman
  - [Using C++20’s Three-way Comparison ](Presentations/using_cpp20s_threeway_comparison_/using_cpp20s_threeway_comparison___jonathan_m%C3%BCller__cppcon_2019.pdf) by Jonathan Müller
  - [Will Your Code Survive the Attack of the Zombie Pointers](Presentations/will_your_code_survive_the_attack_of_the_zombie_pointers/will_your_code_survive_the_attack_of_the_zombie_pointers__paul_e_mckenney_maged_michael_michael_wong__cppcon_2019.pdf) by Paul E. McKenney, Maged Michael, Michael Wong
