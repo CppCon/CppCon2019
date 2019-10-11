@@ -18,7 +18,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [(Ab)using compiler tools](Presentations/abusing_compiler_tools/abusing_compiler_tools__reka_kovacs__cppcon_2019.pdf) by Reka Kovacs
  - [Address Sanitizers + Cloud at Microsoft](Presentations/address_sanitizers__cloud_at_microsoft/address_sanitizers__cloud_at_microsoft__jim_radigan__cppcon_2019.pptx) by Jim Radigan
  - [An Overview of Standard Ranges](Presentations/an_overview_of_standard_ranges/an_overview_of_standard_ranges__tristan_brindle__cppcon_2019.pdf) by Tristan Brindle
- - [Are We Macro-free Yet](Presentations/are_we_macrofree_yet/are_we_macrofree_yet__zhihao_yuan__cppcon_2019.pdf) by Zhihao Yuan
+ - [Are We Macro-free Yet](Presentations/are_we_macrofree_yet/are_we_macrofree_yet__zhihao_yuan__cppcon_2019.pdf) by Zhihao Yuan \[[.pptx](Presentations/are_we_macrofree_yet/are_we_macrofree_yet__zhihao_yuan__cppcon_2019.pptx)\] \[[.pdf](Presentations/are_we_macrofree_yet/are_we_macrofree_yet__zhihao_yuan__cppcon_2019.pdf)\]
  - [Asynchronous Programming in Modern C++](Presentations/asynchronous_programming_in_modern_cpp/asynchronous_programming_in_modern_cpp__hartmut_kaiser__cppcon_2019.pdf) by Hartmut Kaiser
  - [Atomics Locks And Tasks](Presentations/atomics_locks_and_tasks) by Rainer Grimm
  - [Avoid Misuse of Contracts](Presentations/avoid_misuse_of_contracts/avoid_misuse_of_contracts__rostislav_khlebnikov__cppcon_2019.pdf) by Rostislav Khlebnikov
