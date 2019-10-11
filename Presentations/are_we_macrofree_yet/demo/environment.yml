@@ -1,0 +1,7 @@
+name: macrofree-demo
+channels:
+  - conda-forge
+dependencies:
+  - cmake=3.15.3
+  - ninja=1.9.0
+  - simpleroseinc::doctest=2.3.4

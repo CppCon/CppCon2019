@@ -1,0 +1,36 @@
+# vim
+*~
+.*.swp
+
+# compiler
+*.s
+
+# generated files
+config.h
+tests/ctest_paths.h
+
+# cmake
+build/
+Makefile
+/*.cmake
+CMakeCache.txt
+CMakeFiles/
+install_manifest.txt
+
+# ctest
+*.log
+Testing/
+DartConfiguration.tcl
+
+# test executable
+tests/run
+tests/run.exe
+
+# Visual Studio
+/*.vcxproj
+/*.vcxproj.filters
+/*.vcxproj.user
+/*.dir/
+/*.sln
+/*.suo
+/*.sdf

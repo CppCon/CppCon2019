@@ -1,0 +1,45 @@
+---
+AccessModifierOffset: -2
+AlignEscapedNewlinesLeft: true
+AlignTrailingComments: true
+AllowShortBlocksOnASingleLine: true
+AllowShortCaseLabelsOnASingleLine: true
+AllowShortFunctionsOnASingleLine: InlineOnly
+AlwaysBreakTemplateDeclarations: true
+BreakBeforeBraces: Custom
+ColumnLimit: 79
+ConstructorInitializerIndentWidth: 4
+ContinuationIndentWidth: 4
+Cpp11BracedListStyle: false
+IndentWidth: 4
+Language: Cpp
+MaxEmptyLinesToKeep: 1
+PointerAlignment: Left
+SpaceAfterTemplateKeyword: false
+SpacesBeforeTrailingComments: 2
+ForEachMacros:
+  - SUBCASE
+  - GIVEN
+  - WHEN
+  - THEN
+  - AND_WHEN
+  - AND_THEN
+FixNamespaceComments: false
+Standard: Cpp11
+UseTab: Never
+SortIncludes: false
+IncludeBlocks: Preserve
+SortUsingDeclarations: false
+BraceWrapping:
+  AfterClass: true
+  AfterControlStatement: true
+  AfterEnum: true
+  AfterFunction: true
+  AfterNamespace: true
+  AfterUnion: true
+  AfterStruct: true
+  AfterExternBlock: true
+  BeforeCatch: true
+  BeforeElse: true
+
+...
