@@ -68,6 +68,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [High Performance Graphicsand Text Rendering on the GPU](Presentations/high_performance_graphicsand_text_rendering_on_the_gpu/high_performance_graphicsand_text_rendering_on_the_gpu__barbara_geller__ansel_sermersheim__cppcon_2019.pdf) by Barbara Geller & Ansel Sermersheim
  - [Higher Order Functions in Modern C++ Existing Techniques And Function Ref](Presentations/higher_order_functions_in_modern_cpp_existing_techniques_and_function_ref/higher_order_functions_in_modern_cpp_existing_techniques_and_function_ref__vittorio_romeo__cppcon_2019.pdf) by Vittorio Romeo
  - [How C++ wins at card games SWAR](Presentations/how_cpp_wins_at_card_games_swar/how_cpp_wins_at_card_games_swar__eduardo_madrid__cppcon_2019.pdf) by Eduardo Madrid
+ - [How to Choose the Right Standard Library Container](Presentations/how_to_choose_the_right_standard_library_container/how_to_choose_the_right_standard_library_container__alan_talbot__cppcon_2019.pdf) by Alan Talbot
  - [How to Hold a T](Presentations/how_to_hold_a_t/how_to_hold_a_t__cj_johnson__cppcon_2019.pdf) by CJ Johnson
  - [How to Write a Heap Memory Profiler](Presentations/how_to_write_a_heap_memory_profiler/how_to_write_a_heap_memory_profiler__milian_wolff__cppcon_2019.pdf) by Milian Wolff \[[README](Presentations/how_to_write_a_heap_memory_profiler/README.md)\]
  - [Inference in C++ - The Big Picture](Presentations/inference_in_cpp_the_big_picture/inference_in_cpp_the_big_picture__mike_spertus__cppcon_2019.pdf) by Mike Spertus
