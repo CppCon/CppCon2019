@@ -129,6 +129,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [Embracing modern C++ in HPC for Brain Scale Simulations](Posters/embracing_modern_cpp_in_hpc_for_brain_scale_simulations/embracing_modern_cpp_in_hpc_for_brain_scale_simulations__o_awile_t_carel__cppcon_2019.pdf) by O. Awile, T. Carel
  - [Empirical](Posters/empirical/empirical__matthew_andres_moreno_charles_ofria__cppcon_2019.pdf) by Matthew Andres Moreno, Charles Ofria
  - [Fixed Precision Adder](Posters/fixed_precision_adder/fixed_precision_adder__elmar_westphal__cppcon_2019.pdf) by Elmar Westphal
+ - [FlexIT: Not just another JSON Parser](Posters/flexit_not_just_another_json_parser/flexit_not_just_another_json_parser__nipun_jindal_pranay_kumar__cppcon_2019.pdf) by Nipun Jindal, Pranay Kumar
  - [High-level Synthesis with SLX FPGA](Posters/highlevel_synthesis_with_slx_fpga/highlevel_synthesis_with_slx_fpga__matthias_gehre__cppcon_2019.pdf) by Matthias Gehre
  - [How Snap uses C++ to build the most-used augmented reality platform](Posters/how_snap_uses_cpp_to_build_the_mostused_augmented_reality_platform/how_snap_uses_cpp_to_build_the_mostused_augmented_reality_platform__evgenii_zaikin_fedir_poliakov_yurii_monastyrshyn__cppcon_2019.pdf) by Evgenii Zaikin, Fedir Poliakov, Yurii Monastyrshyn
  - [Meet Beetroot](Posters/meet_beetroot/meet_beetroot__adam_ryczkowski__cppcon_2019.pdf) by Adam Ryczkowski \[[more materials](Posters/meet_beetroot)\]
