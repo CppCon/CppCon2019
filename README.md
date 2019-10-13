@@ -70,6 +70,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [How C++ wins at card games SWAR](Presentations/how_cpp_wins_at_card_games_swar/how_cpp_wins_at_card_games_swar__eduardo_madrid__cppcon_2019.pdf) by Eduardo Madrid
  - [How to Choose the Right Standard Library Container](Presentations/how_to_choose_the_right_standard_library_container/how_to_choose_the_right_standard_library_container__alan_talbot__cppcon_2019.pdf) by Alan Talbot
  - [How to Hold a T](Presentations/how_to_hold_a_t/how_to_hold_a_t__cj_johnson__cppcon_2019.pdf) by CJ Johnson
+ - [How to Implement Your First Compiler Feature: The Story of Concepts in Clang](Presentations/how_to_implement_your_first_compiler_feature_the_story_of_concepts_in_clang.pdf) by Saar Raz
  - [How to Write a Heap Memory Profiler](Presentations/how_to_write_a_heap_memory_profiler/how_to_write_a_heap_memory_profiler__milian_wolff__cppcon_2019.pdf) by Milian Wolff \[[README](Presentations/how_to_write_a_heap_memory_profiler/README.md)\]
  - [Inference in C++ - The Big Picture](Presentations/inference_in_cpp_the_big_picture/inference_in_cpp_the_big_picture__mike_spertus__cppcon_2019.pdf) by Mike Spertus
  - [Infiltrating a Codebase](Presentations/infiltrating_a_codebase/infiltrating_a_codebase__brian_ruth__cppcon_2019.pdf) by Brian Ruth
