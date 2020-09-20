@@ -40,7 +40,6 @@ and code from [CppCon 2019](http://cppcon.org).
  - [Concepts in C++20 Revolution or Evolution](Presentations/concepts_in_cpp20_revolution_or_evolution/concepts_in_cpp20_revolution_or_evolution__rainer_grimm__cppcon_2019.pdf) by Rainer Grimm
  - [Concurrency in C++20 and beyond](Presentations/concurrency_in_cpp20_and_beyond/concurrency_in_cpp20_and_beyond__anthony_williams__cppcon_2019.pdf) by Anthony Williams
  - [C++20 Standard Library Beyond Ranges](Presentations/cpp20_standard_library_beyond_ranges/cpp20_standard_library_beyond_ranges__jeff_garland__cppcon_2019.pdf) by Jeff Garland
- - [C++20 Synchronization Library](Presentations/cpp20_synchronization_library/cpp20_synchronization_library__r2__bryce_adelstein_lelbach__cppcon_2019.pdf) by Bryce Adelstein Lelbach
  - [C++20 What's In It For You](Presentations/cpp20_whats_in_it_for_you/cpp20_whats_in_it_for_you__marc_gregoire__cppcon_2019.pptx) by Marc Gregoire
  - [C++ as a First Language... Really?](Presentations/cpp_as_a_first_language_really/cpp_as_a_first_language_really__patrice_roy__cppcon_2019.pdf) by Patrice Roy
  - [C++ at 40](Presentations/cpp_at_40/cpp_at_40__bjarne_stroustrup__cppcon_2019.pdf) by Bjarne Stroustrup
@@ -96,6 +95,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [Solve Hard Problems Quickly Using SAT Solvers](Presentations/solve_hard_problems_quickly_using_sat_solvers/solve_hard_problems_quickly_using_sat_solvers__martin_ho%C5%99e%C5%88ovsk%C3%BD__cppcon_2019.pdf) by Martin Hořeňovský
  - [Some Programming Myths Revisited](Presentations/some_programming_myths_revisited/some_programming_myths_revisited__patrice_roy__cppcon_2019.pdf) by Patrice Roy
  - [Speed Is Found In The Minds Of People](Presentations/speed_is_found_in_the_minds_of_people/speed_is_found_in_the_minds_of_people__andrei_alexandrescu__cppcon_2019.pdf) by Andrei Alexandrescu
+ - [The Business Value of a Good API](Presentations/the_business_value_of_a_good_api/the_business_value_of_a_good_api__bob_steagall__cppcon_2019.pdf) by Bob Steagall
  - [The Design of The C++ Runtime For AWS Lambda](Presentations/the_design_of_the_cpp_runtime_for_aws_lambda/the_design_of_the_cpp_runtime_for_aws_lambda__marco_magdy__cppcon_2019.pdf) by Marco Magdy \[[README](Presentations/the_design_of_the_cpp_runtime_for_aws_lambda/README.md)\]
  - [The Networking TS in Practice: Patterns for Real World Problems](Presentations/the_networking_ts_in_practice_patterns_for_real_world_problems/the_networking_ts_in_practice_patterns_for_real_world_problems__robert_leahy__cppcon_2019.pdf) by Robert Leahy \[[more materials](Presentations/the_networking_ts_in_practice_patterns_for_real_world_problems)\]
  - [The Smart Pointers I Wish I Had](Presentations/the_smart_pointers_i_wish_i_had/the_smart_pointers_i_wish_i_had__matthew_fleming__cppcon_2019.pdf) by Matthew Fleming
