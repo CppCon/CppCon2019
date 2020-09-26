@@ -39,6 +39,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [Compiler Explorer: Behind the Scenes](Presentations/compiler_explorer_behind_the_scenes/compiler_explorer_behind_the_scenes__matt_godbolt__cppcon_2019.pdf) by Matt Godbolt \[[README](Presentations/compiler_explorer_behind_the_scenes/README.md)\] \[[more materials](Presentations/compiler_explorer_behind_the_scenes)\]
  - [Concepts in C++20 Revolution or Evolution](Presentations/concepts_in_cpp20_revolution_or_evolution/concepts_in_cpp20_revolution_or_evolution__rainer_grimm__cppcon_2019.pdf) by Rainer Grimm
  - [Concurrency in C++20 and beyond](Presentations/concurrency_in_cpp20_and_beyond/concurrency_in_cpp20_and_beyond__anthony_williams__cppcon_2019.pdf) by Anthony Williams
+ - [C++20 Concepts: A Day in the Life](Presentations/cpp20_concepts_a_day_in_the_life/cpp20_concepts_a_day_in_the_life.pdf) by Saar Raz
  - [C++20 Standard Library Beyond Ranges](Presentations/cpp20_standard_library_beyond_ranges/cpp20_standard_library_beyond_ranges__jeff_garland__cppcon_2019.pdf) by Jeff Garland
  - [C++20 What's In It For You](Presentations/cpp20_whats_in_it_for_you/cpp20_whats_in_it_for_you__marc_gregoire__cppcon_2019.pptx) by Marc Gregoire
  - [C++ as a First Language... Really?](Presentations/cpp_as_a_first_language_really/cpp_as_a_first_language_really__patrice_roy__cppcon_2019.pdf) by Patrice Roy
@@ -70,6 +71,7 @@ and code from [CppCon 2019](http://cppcon.org).
  - [How C++ wins at card games SWAR](Presentations/how_cpp_wins_at_card_games_swar/how_cpp_wins_at_card_games_swar__eduardo_madrid__cppcon_2019.pdf) by Eduardo Madrid
  - [How to Choose the Right Standard Library Container](Presentations/how_to_choose_the_right_standard_library_container/how_to_choose_the_right_standard_library_container__alan_talbot__cppcon_2019.pdf) by Alan Talbot
  - [How to Hold a T](Presentations/how_to_hold_a_t/how_to_hold_a_t__cj_johnson__cppcon_2019.pdf) by CJ Johnson
+ - [How to Implement Your First Compiler Feature: The Story of Concepts in Clang](Presentations/how_to_implement_your_first_compiler_feature_the_story_of_concepts_in_clang.pdf) by Saar Raz
  - [How to Write a Heap Memory Profiler](Presentations/how_to_write_a_heap_memory_profiler/how_to_write_a_heap_memory_profiler__milian_wolff__cppcon_2019.pdf) by Milian Wolff \[[README](Presentations/how_to_write_a_heap_memory_profiler/README.md)\]
  - [Inference in C++ - The Big Picture](Presentations/inference_in_cpp_the_big_picture/inference_in_cpp_the_big_picture__mike_spertus__cppcon_2019.pdf) by Mike Spertus
  - [Infiltrating a Codebase](Presentations/infiltrating_a_codebase/infiltrating_a_codebase__brian_ruth__cppcon_2019.pdf) by Brian Ruth
